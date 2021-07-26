@@ -1,6 +1,6 @@
 ---
 title:  "Pour la Douche"
-subtitle: "Qualité, unicité et abordabilité."
+subtitle: "Relaxation, comfort et abordabilité."
 author: "chiwawawtf"
 avatar: "img/authors/chiwawawtf.jpg"
 image: "img/pour-la-douche.jpg"
