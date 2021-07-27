@@ -1,8 +1,8 @@
 ---
 title:  "Chandelles"
-subtitle: "Qualité, unicité et abordabilité."
-author: "chiwawawtf"
-avatar: "img/authors/chiwawawtf.jpg"
+subtitle: "Qualité, bien-être et abordabilité."
+author: "Boutique 277"
+avatar: "img/authors/boutique277.png"
 image: "img/chandelles.jpg"
 date:   2021-07-25 10:00:09
 ---
@@ -11,7 +11,7 @@ date:   2021-07-25 10:00:09
 Nos chandelles sont toutes faites sur place par l'artisan à la boutique!
 
 ### Gallerie des Produits
-À venir.
+À venir.<br /><br />
 
 ### Nos Ingredients
 <img class="post-image" src="/img/ingredients/beeswax.png">

@@ -1,8 +1,8 @@
 ---
 title:  "Pour la Maison"
-subtitle: "Qualité, unicité et abordabilité."
-author: "chiwawawtf"
-avatar: "img/authors/chiwawawtf.jpg"
+subtitle: "Qualité, bien-être et abordabilité."
+author: "Boutique 277"
+avatar: "img/authors/boutique277.png"
 image: "img/pour-la-maison.jpg"
 date:   2021-07-25 10:00:05
 ---

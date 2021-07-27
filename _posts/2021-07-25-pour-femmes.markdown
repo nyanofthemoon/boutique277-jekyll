@@ -1,8 +1,8 @@
 ---
 title:  "Pour Femmes"
 subtitle: "Beauté, comfort et abordabilité."
-author: "chiwawawtf"
-avatar: "img/authors/chiwawawtf.jpg"
+author: "Boutique 277"
+avatar: "img/authors/boutique277.png"
 image: "img/pour-femmes.jpg"
 date:   2021-07-25 10:00:05
 ---

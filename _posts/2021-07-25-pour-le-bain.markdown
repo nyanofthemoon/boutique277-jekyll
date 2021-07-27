@@ -1,8 +1,8 @@
 ---
 title:  "Pour le Bain"
-subtitle: "Qualité, unicité et abordabilité."
-author: "chiwawawtf"
-avatar: "img/authors/chiwawawtf.jpg"
+subtitle: "Relaxation, comfort et abordabilité."
+author: "Boutique 277"
+avatar: "img/authors/boutique277.png"
 image: "img/pour-le-bain.jpg"
 date:   2021-07-25 10:00:07
 ---

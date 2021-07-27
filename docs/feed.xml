@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Boutique 277</title>
+        <title>Artisan de Bellechasse-Etchemins | Boutique 277</title>
         <description>artisan, bijoux, chandelles, savons, article pour bain, articles pour douche, déodorants pour femmes, savons à raser, articles en cuir, décorations et plus!</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 26 Jul 2021 12:58:35 -0400</pubDate>
-        <lastBuildDate>Mon, 26 Jul 2021 12:58:35 -0400</lastBuildDate>
+        <pubDate>Tue, 27 Jul 2021 08:07:34 -0400</pubDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:07:34 -0400</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
         <item>
@@ -38,7 +38,7 @@
 &lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique!&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;À venir.&lt;/p&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;nos-ingredients&quot;&gt;Nos Ingredients&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/beeswax.png&quot; /&gt;
@@ -434,7 +434,7 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;À venir.&lt;/p&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:02 -0400</pubDate>
             <link>#/2021/07/25/en-cuir.html</link>
