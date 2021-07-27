@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-femmes.jpg"
 date:   2021-07-25 10:00:05
+category: true
+categoryContent: "women"
 ---
 
 ### Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus

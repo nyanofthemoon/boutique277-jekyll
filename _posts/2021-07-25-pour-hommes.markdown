@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-hommes.jpg"
 date:   2021-07-25 10:00:04
+category: true
+categoryContent: "men"
 ---
 
 ### Savon de Rasage, Déodorants, Baumes, Crèmes et plus

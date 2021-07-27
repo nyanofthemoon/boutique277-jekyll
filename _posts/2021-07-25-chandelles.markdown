@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/chandelles.jpg"
 date:   2021-07-25 10:00:09
+category: true
+categoryContent: "candles"
 ---
 
 ### Chandelles Aromatiques et Décoratives

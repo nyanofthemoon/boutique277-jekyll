@@ -4,4 +4,5 @@ description: artisan, bijoux, chandelles, savons, article pour bain, articles po
 keywords: Artisan bijoux, chandelles, savons, article pour bain, articles pour douche, déodorants pour femmes, chouchous, masques faciaux, baumes, gloss, savons à raser, cuir, décorations
 author: Boutique 277
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://boutique277.com" # the base hostname & protocol for your site
+permalink: /:title

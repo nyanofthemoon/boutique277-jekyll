@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-la-douche.jpg"
 date:   2021-07-25 10:00:06
+category: true
+categoryContent: "shower"
 ---
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus

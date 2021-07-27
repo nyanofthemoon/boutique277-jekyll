@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/en-cuir.jpg"
 date:   2021-07-25 10:00:02
+category: true
+categoryContent: "leather"
 ---
 
 ### Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus

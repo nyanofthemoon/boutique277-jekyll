@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-le-bain.jpg"
 date:   2021-07-25 10:00:07
+category: true
+categoryContent: "bath"
 ---
 
 ### Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus

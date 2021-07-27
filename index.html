@@ -1,5 +1,6 @@
 ---
 layout: compress
+homepage: false
 ---
 <!DOCTYPE html>
 <html lang="en" class="no-js">
@@ -41,8 +42,8 @@ layout: compress
             <a href="/boutique.html#heures"><i class="fa fa-clock-o fa-3x"></i></a>
             <a href="/boutique.html#directions"><i class="fa fa-compass fa-3x"></i></a>
             <a href="/faq.html"><i class="fa fa-question-circle fa-3x"></i></a>
-            <a href="mailto:laboutique277@gmail.com"><i class="fa fa-envelope-square fa-3x"></i></a>
             <a href="tel:(581) 931-8090"><i class="fa fa-phone-square fa-3x"></i></a>
+            <a href="mailto:laboutique277@gmail.com"><i class="fa fa-envelope-square fa-3x"></i></a>
             <a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
         </nav>
     </header>
@@ -52,36 +53,38 @@ layout: compress
         <!-- cards -->
         <div class="wrapper">
             {% for post in site.posts %}
-            <div class="card" data-id="{{ post.id }}">
-                <div class="card__container card__container--closed">
-                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
-                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
-                         preserveAspectRatio="xMidYMid slice">
-                        <defs>
-                            <clipPath id="{{ post.id }}-clip-path">
-                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
-                            </clipPath>
-                        </defs>
-                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
-                               xlink:href="{{ post.image }}"></image>
-                    </svg>
-                    <div class="card__content">
-                        <i class="card__btn-close fa fa-times"></i>
-                        <div class="card__caption">
-                            <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
-                        </div>
-                        <div class="card__copy">
-                            <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
-                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                {% if post.category == true %}
+                <div class="card" data-id="{{ post.id }}">
+                    <div class="card__container card__container--closed">
+                        <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                            preserveAspectRatio="xMidYMid slice">
+                            <defs>
+                                <clipPath id="{{ post.id }}-clip-path">
+                                    <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                                </clipPath>
+                            </defs>
+                            <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                                xlink:href="{{ post.image }}"></image>
+                        </svg>
+                        <div class="card__content">
+                            <i class="card__btn-close fa fa-times"></i>
+                            <div class="card__caption">
+                                <h2 class="card__title">{{ post.title }}</h2>
+                                <p class="card__subtitle">{{ post.subtitle }}</p>
                             </div>
-                            {{ post.content }}
+                            <div class="card__copy">
+                                <!--div class="meta">
+                                    <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                    <span class="meta__author">{{ post.author }}</span>
+                                    <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                                </div-->
+                                {{ post.content }}
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+                {% endif %}
             {% endfor %}
             <!-- /cards -->
         </div>

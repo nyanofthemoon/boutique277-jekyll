@@ -5,6 +5,8 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/bijoux.jpg"
 date:   2021-07-25 10:00:10
+category: true
+categoryContent: "jewelry"
 ---
 
 ### Bagues, Boucles d'Oreilles, Bracelets et Colliers
