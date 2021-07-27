@@ -11,9 +11,11 @@ categoryContent: "home"
 
 ### Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus
 Nos créations sont fabriquées par l'artisan sur place à la boutique!
+<br /><br /><br />
 
 ### Gallerie des Produits
-<img class="post-image" src="/img/products/wipes/lavette-ecologique.png">
+<img class="post-image-product" src="/img/products/wipes/lavette-ecologique.png">
 <strong>Lavettes Écologiques Compostables</strong><br />
 Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux qui n'ont pas de pile de compost!
 <div class="post-image-clear"></div>
+<br />

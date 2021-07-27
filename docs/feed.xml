@@ -6,17 +6,18 @@
         <link>https://boutique277.com/</link>
         <atom:link href="https://boutique277.com/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 27 Jul 2021 15:24:18 -0400</pubDate>
-        <lastBuildDate>Tue, 27 Jul 2021 15:24:18 -0400</lastBuildDate>
+        <pubDate>Tue, 27 Jul 2021 16:18:52 -0400</pubDate>
+        <lastBuildDate>Tue, 27 Jul 2021 16:18:52 -0400</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
         <item>
             <title>Bijoux</title>
             <description>&lt;h3 id=&quot;bagues-boucles-doreilles-bracelets-et-colliers&quot;&gt;Bagues, Boucles d’Oreilles, Bracelets et Colliers&lt;/h3&gt;
-&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;services-additionels&quot;&gt;Services Additionels&lt;/h3&gt;
 &lt;p&gt;Nettoyage en profondeur écologique de bagues, boucles d’oreilles, bracelets, colliers, lunettes et bracelets de montres.&lt;/p&gt;
@@ -37,12 +38,13 @@
         <item>
             <title>Chandelles</title>
             <description>&lt;h3 id=&quot;chandelles-aromatiques-et-décoratives&quot;&gt;Chandelles Aromatiques et Décoratives&lt;/h3&gt;
-&lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nos-ingredients&quot;&gt;Nos Ingredients&lt;/h3&gt;
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-chandelles&quot;&gt;Ingrédients Utilisés dans nos Chandelles&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/beeswax.png&quot; /&gt;
 &lt;strong&gt;Cire d’Abeille Biologique&lt;/strong&gt;&lt;br /&gt;
 La cire d’abeille est utilisée comme base dans nos chandelles.&lt;/p&gt;
@@ -80,9 +82,13 @@ La poudre de mica est utilisée par l’industrie cosmétique et nous l’utilis
         <item>
             <title>Savons</title>
             <description>&lt;h3 id=&quot;savons-aromatiques-et-artisanaux&quot;&gt;Savons Aromatiques et Artisanaux&lt;/h3&gt;
-&lt;p&gt;Nos savons sont tous faits sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos savons sont tous faits sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nos-ingredients&quot;&gt;Nos Ingredients&lt;/h3&gt;
+&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-savons&quot;&gt;Ingrédients Utilisés dans nos Savons&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocooil.png&quot; /&gt;
 &lt;strong&gt;Huile de Coco Biologique&lt;/strong&gt;&lt;br /&gt;
 L’huile de coco est riche en vitamines et est utilisées pour ses propriétés antiradicalaire, antioxydante, réparatrices et hydratantes.&lt;/p&gt;
@@ -190,15 +196,17 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
         <item>
             <title>Pour le Bain</title>
             <description>&lt;h3 id=&quot;bombes-de-bain-débarbouillettes-savons-crèmes-bain-de-pieds-et-plus&quot;&gt;Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus&lt;/h3&gt;
-&lt;p&gt;Nos produits pour le bain sont toutes faites sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos produits pour le bain sont toutes faites sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.png&quot; /&gt;
 &lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nos-ingredients&quot;&gt;Nos Ingredients&lt;/h3&gt;
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-produits-de-bain&quot;&gt;Ingrédients Utilisés dans nos Produits de Bain&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocomilk.png&quot; /&gt;
 &lt;strong&gt;Lait de Coco Biologique&lt;/strong&gt;&lt;br /&gt;
 La lait de coco est riche en vitamine C et aide à maintenir l’élasticité et la flexibilité de la peau. Il est également riche en cuivre et ralentit l’apparition de rides, empêche le relâchement cutané prématuré et les taches de vieillesse.&lt;/p&gt;
@@ -229,7 +237,7 @@ Le bicarbonate de soude est utilisée comme agent effervescent et pour ses propr
 L’acide citrique, présente dans les agrumes, est utilisée pour ses propriétés antioxydantes et de régulation de l’acidité.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cicastoroiltricacid.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/castoroil.png&quot; /&gt;
 &lt;strong&gt;Huile de Castor&lt;/strong&gt;&lt;br /&gt;
 L’huile de castor hydrogénée est utilisées pour ses propriétés émulsifiantes et émollientes.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
@@ -237,6 +245,11 @@ L’huile de castor hydrogénée est utilisées pour ses propriétés émulsifia
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/driedroses.png&quot; /&gt;
 &lt;strong&gt;Fleurs Séchées&lt;/strong&gt;&lt;br /&gt;
 De vraies fleurs séchées sont utilisées pour leurs propriétés propres.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/micapowder.png&quot; /&gt;
+&lt;strong&gt;Poudre de Mica&lt;/strong&gt;&lt;br /&gt;
+La poudre de mica est utilisée dans l’industrie cosmétique pour donner de la couleur.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/foodcoloring.png&quot; /&gt;
@@ -256,7 +269,8 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
         <item>
             <title>Pour la Douche</title>
             <description>&lt;h3 id=&quot;vapeur-de-douche-débarbouillettes-savons-crèmes-et-plus&quot;&gt;Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus&lt;/h3&gt;
-&lt;p&gt;Nos produits pour la douche sont toutes faites sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos produits pour la douche sont toutes faites sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.png&quot; /&gt;
@@ -264,7 +278,7 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;nos-ingredients&quot;&gt;Nos Ingredients&lt;/h3&gt;
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-produits-de-douche&quot;&gt;Ingrédients Utilisés dans nos Produits de Douche&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/essentialoils.png&quot; /&gt;
 &lt;strong&gt;Huiles Essentielles Biologiques&lt;/strong&gt;&lt;br /&gt;
 Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique.&lt;/p&gt;
@@ -302,13 +316,15 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
         <item>
             <title>Pour la Maison</title>
             <description>&lt;h3 id=&quot;lampes-mobiles-cache-pot-paniers-objets-décoratifs-lavettes-souvenirs-et-plus&quot;&gt;Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus&lt;/h3&gt;
-&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/wipes/lavette-ecologique.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/wipes/lavette-ecologique.png&quot; /&gt;
 &lt;strong&gt;Lavettes Écologiques Compostables&lt;/strong&gt;&lt;br /&gt;
 Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux qui n’ont pas de pile de compost!&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
             <link>https://boutique277.com/#/pour-la-maison</link>
@@ -322,57 +338,120 @@ Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutil
         <item>
             <title>Pour Femmes</title>
             <description>&lt;h3 id=&quot;masques-faciaux-déodorants-crèmes-gloss-baumes-chouchous-et-plus&quot;&gt;Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus&lt;/h3&gt;
-&lt;p&gt;Nos produits pour femmes sont tous faits sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos produits pour femmes sont tous faits sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/scrunchies/silk-scrunchies.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/scrunchies/silk-scrunchies.png&quot; /&gt;
 &lt;strong&gt;Chouchous de Luxe&lt;/strong&gt;&lt;br /&gt;
 Nos chouchous de luxe pour cheveux sont très elastiques et fait en soie et en satin. Disponibles en plusieurs couleurs et motifs!&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/jasmin.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/jasmin.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Jasmin&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles de jasmin biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous envoûtant de son parfum calmant.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/masks/reparateur.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/masks/reparateur.png&quot; /&gt;
 &lt;strong&gt;Masque Facial: Réparateur&lt;/strong&gt;&lt;br /&gt;
 Composé d’aloe vera biologique, curcuma, d’huile de rose musquée, soufre et d’huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l’acné, diminue la rosacée et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/orange.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/orange.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Orange&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielle d’orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous envoûtant de son parfum calmant.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/masks/exfoliant.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/masks/exfoliant.png&quot; /&gt;
 &lt;strong&gt;Masque Facial: Exfoliant&lt;/strong&gt;&lt;br /&gt;
 Composé d’aloe vera biologique, poudre de cacao biologique, marc de café, huile essentielle de géranium biologique et huile essentielle de ylang ylang biologique, notre masque facial aide à débarrasser l’épiderme des cellules mortes qui l’asphyxient et ternissent son éclat. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser en massant doucement.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/vanille.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/vanille.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Vanille&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous enrobant de son parfum rassurant.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/citron.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/citron.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Citron&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous rafraîchissant par son parfum.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/masks/nourrissant.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/masks/nourrissant.png&quot; /&gt;
 &lt;strong&gt;Masque Facial: Nourrissant&lt;/strong&gt;&lt;br /&gt;
 Composé d’aloe vera biologique, thé vert matcha biologique, lait de coco biologique, huile essentielle d’orange biologique et huile essentielle de frankincense biologique, notre masque facial aide à garder votre peau belle et en santé. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/naturel.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/naturel.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Nature&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d’argile grise, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles et d’hydrater la peau.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/masks/detoxifiant.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/masks/detoxifiant.png&quot; /&gt;
 &lt;strong&gt;Masque Facial: Détoxifiant&lt;/strong&gt;&lt;br /&gt;
 Composé d’aloe vera biologique, d’argile biologique, de charbon arctivé, huile essentielle de menthe poivrée biologique et huile essentielle de théier biologique, notre masque facial aide à se débarasser des impuretés pour prévenir les problèmes de peau. Appliquer sur une peau propre et laissez agir de 10 à 15 minutes avant de rinser doucement.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-produits-pour-femmes&quot;&gt;Ingrédients Utilisés dans nos Produits pour Femmes&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocooil.png&quot; /&gt;
+&lt;strong&gt;Huile de Coco Biologique&lt;/strong&gt;&lt;br /&gt;
+L’huile de coco est riche en vitamines et est utilisées pour ses propriétés antiradicalaire, antioxydante, réparatrices et hydratantes.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocomilk.png&quot; /&gt;
+&lt;strong&gt;Lait de Coco Biologique&lt;/strong&gt;&lt;br /&gt;
+La lait de coco est riche en vitamine C et aide à maintenir l’élasticité et la flexibilité de la peau. Il est également riche en cuivre et ralentit l’apparition de rides, empêche le relâchement cutané prématuré et les taches de vieillesse.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/beeswax.png&quot; /&gt;
+&lt;strong&gt;Cire d’Abeille Biologique&lt;/strong&gt;&lt;br /&gt;
+La cire d’abeille pure est utilisée pour ses propriétés anti-inflammatoires qui apaisent les blessures et, comme elle est riche en vitamine A, elle nourrit la peau et facilite la cicatrisation.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/turmeric.png&quot; /&gt;
+&lt;strong&gt;Curcuma Biologique&lt;/strong&gt;&lt;br /&gt;
+Le curcuma est utilisé pour ses propriétés anti-acné, anti-eczéma, anti-psoriasis, anti-inflammatoires, antioxydantes et d’éclaircissant de la peau.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocoa.png&quot; /&gt;
+&lt;strong&gt;Cacao Biologique&lt;/strong&gt;&lt;br /&gt;
+Le cacao est utilisé pour les propriétés astringentes de son tanin, antioxydantes, anti-cellulite et hydratantes.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/matchagreentea.jpg&quot; /&gt;
+&lt;strong&gt;Thé Vert Matcha Biologique&lt;/strong&gt;&lt;br /&gt;
+Le thé vert matcha est utilisé pour les propriétés d’astringent naturel, anti-inflammatoires et antimicrobiennes.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/tapiocastarch.png&quot; /&gt;
+&lt;strong&gt;Fécule de Tapioca Biologique&lt;/strong&gt;&lt;br /&gt;
+La fécule de tapioca, qui est sans-gluten, est utilisée comme agent épaississeur et ses bienfaits pour calmer les irritations.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/bentoniteclay.png&quot; /&gt;
+&lt;strong&gt;Argile de Bentonite&lt;/strong&gt;&lt;br /&gt;
+L’argile de bentonite est utilisée pour ses propriétes absorbantes, cicatrisantes, apaisantes et anti-irritante.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/aloevera.png&quot; /&gt;
+&lt;strong&gt;Aloe Vera Biologique&lt;/strong&gt;&lt;br /&gt;
+La gel d’aloe vera en riche en acides aminés, minéraux et vitamines qui lui donnen d’incroyables vertus pour la peau: cicatrisation, elasticité, apaise les irritations et hydratant.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/essentialoils.png&quot; /&gt;
+&lt;strong&gt;Huiles Essentielles Biologiques&lt;/strong&gt;&lt;br /&gt;
+Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/sulfurpowder.png&quot; /&gt;
+&lt;strong&gt;Soufre Biologique&lt;/strong&gt;&lt;br /&gt;
+La poudre de soufre est utilisé pour traiter les problèmes de peau tels que l’eczéma, le psoriasis, l’acné sévère et infections cutanées.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/coffeegrounds.png&quot; /&gt;
+&lt;strong&gt;Marc de Café&lt;/strong&gt;&lt;br /&gt;
+Le marc de café est utilisée pour ses propriétés antioxydantes et exfoliantes.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
@@ -387,52 +466,85 @@ Composé d’aloe vera biologique, d’argile biologique, de charbon arctivé, h
         <item>
             <title>Pour Hommes</title>
             <description>&lt;h3 id=&quot;savon-de-rasage-déodorants-baumes-crèmes-et-plus&quot;&gt;Savon de Rasage, Déodorants, Baumes, Crèmes et plus&lt;/h3&gt;
-&lt;p&gt;Nos produits pour hommes sont tous faits sur place par l’artisan à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos produits pour hommes sont tous faits sur place par l’artisan à la boutique!
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/naturel.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/naturel.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Nature&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d’argile grise, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles et d’hydrater la peau.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/shavingsoaps/laventurier.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/laventurier.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: L’Aventurier&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles de citron et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/shavingsoaps/lexplorateur.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/lexplorateur.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: L’Explorateur&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles de bergamote et frankincense biologique, notre savon à raser vous rafraîchira tout en vous donnant une odeur classiquement masculine.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/shavingsoaps/lesportif.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/lesportif.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: Le Sportif&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles d’eucalyptus et ravensara biologique, notre savon à raser vous revigorera juste avant votre prochain exercise.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/orange.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/orange.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Orange&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles d’orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous donnant une odeur réconfortante.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/shavingsoaps/leromantique.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/leromantique.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: Le Romantique&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles de camomille et orange biologique, notre savon à raser laissera votre peau douce avec un odeur bien appréciable.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/frankincense.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/frankincense.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Frankincense&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles de Frankincense biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous donnant un odeur des plus masculine.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/shavingsoaps/lintellectuel.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/lintellectuel.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: L’Intellectuel&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles de lavande et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en apaisant votre peau.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/deodorants/citron.png&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/deodorants/citron.png&quot; /&gt;
 &lt;strong&gt;Déodorant Solide: Citron&lt;/strong&gt;&lt;br /&gt;
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d’argile grise et d’huile essentielles de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d’empêcher les mauvaises odeurs corporelles, d’hydrater la peau tout en vous donnant une odeur rafraîchissante.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingrédients-utilisés-dans-nos-produits-pour-femmes&quot;&gt;Ingrédients Utilisés dans nos Produits pour Femmes&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/cocooil.png&quot; /&gt;
+&lt;strong&gt;Huile de Coco Biologique&lt;/strong&gt;&lt;br /&gt;
+L’huile de coco est riche en vitamines et est utilisées pour ses propriétés antiradicalaire, antioxydante, réparatrices et hydratantes.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/beeswax.png&quot; /&gt;
+&lt;strong&gt;Cire d’Abeille Biologique&lt;/strong&gt;&lt;br /&gt;
+La cire d’abeille pure est utilisée pour ses propriétés anti-inflammatoires qui apaisent les blessures et, comme elle est riche en vitamine A, elle nourrit la peau et facilite la cicatrisation.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/tapiocastarch.png&quot; /&gt;
+&lt;strong&gt;Fécule de Tapioca Biologique&lt;/strong&gt;&lt;br /&gt;
+La fécule de tapioca, qui est sans-gluten, est utilisée comme agent épaississeur et ses bienfaits pour calmer les irritations.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/bentoniteclay.png&quot; /&gt;
+&lt;strong&gt;Argile de Bentonite&lt;/strong&gt;&lt;br /&gt;
+L’argile de bentonite est utilisée pour ses propriétes absorbantes, cicatrisantes, apaisantes et anti-irritante.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/aloevera.png&quot; /&gt;
+&lt;strong&gt;Aloe Vera Biologique&lt;/strong&gt;&lt;br /&gt;
+La gel d’aloe vera en riche en acides aminés, minéraux et vitamines qui lui donnen d’incroyables vertus pour la peau: cicatrisation, elasticité, apaise les irritations et hydratant.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/essentialoils.png&quot; /&gt;
+&lt;strong&gt;Huiles Essentielles Biologiques&lt;/strong&gt;&lt;br /&gt;
+Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:04 -0400</pubDate>
@@ -450,7 +562,7 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:02 -0400</pubDate>
             <link>https://boutique277.com/#/en-cuir</link>

@@ -127,7 +127,7 @@
 }
 
 .card__copy p:first-of-type {
-	/*font-size: 1.5em;*/
+	font-size: 0.75em;
 	padding: 0 0 1em 0;
 }
 
@@ -377,8 +377,16 @@ a:focus {
 
 .post-image {
 	float: right;
-	margin: 10px;
+	margin: 5px 0px 10px 10px;
 	max-height: 150px;
+	border-radius: 50%;
+}
+
+.post-image-product {
+	float: left;
+	margin: 5px 20px 10px 0px;
+	max-height: 150px;
+	border-radius: 50%;
 }
 
 .post-image-clear {

@@ -11,6 +11,7 @@ categoryContent: "shower"
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus
 Nos produits pour la douche sont toutes faites sur place par l'artisan à la boutique!
+<br /><br /><br />
 
 ### Gallerie des Produits
 <img class="post-image" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
@@ -18,7 +19,7 @@ Nos produits pour la douche sont toutes faites sur place par l'artisan à la bou
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
 <div class="post-image-clear"></div>
 
-### Nos Ingredients
+### Ingrédients Utilisés dans nos Produits de Douche
 <img class="post-image" src="/img/ingredients/essentialoils.png">
 <strong>Huiles Essentielles Biologiques</strong><br />
 Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique.

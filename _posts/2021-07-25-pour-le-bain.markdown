@@ -11,14 +11,16 @@ categoryContent: "bath"
 
 ### Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus
 Nos produits pour le bain sont toutes faites sur place par l'artisan à la boutique!
+<br /><br /><br />
 
 ### Gallerie des Produits
-<img class="post-image" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
+<img class="post-image-product" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
 <strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
 <div class="post-image-clear"></div>
+<br />
 
-### Nos Ingredients
+### Ingrédients Utilisés dans nos Produits de Bain
 <img class="post-image" src="/img/ingredients/cocomilk.png">
 <strong>Lait de Coco Biologique</strong><br />
 La lait de coco est riche en vitamine C et aide à maintenir l'élasticité et la flexibilité de la peau. Il est également riche en cuivre et ralentit l'apparition de rides, empêche le relâchement cutané prématuré et les taches de vieillesse.
@@ -49,7 +51,7 @@ Le bicarbonate de soude est utilisée comme agent effervescent et pour ses propr
 L'acide citrique, présente dans les agrumes, est utilisée pour ses propriétés antioxydantes et de régulation de l'acidité.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/cicastoroiltricacid.png">
+<img class="post-image" src="/img/ingredients/castoroil.png">
 <strong>Huile de Castor</strong><br />
 L'huile de castor hydrogénée est utilisées pour ses propriétés émulsifiantes et émollientes.
 <div class="post-image-clear"></div>
@@ -57,6 +59,11 @@ L'huile de castor hydrogénée est utilisées pour ses propriétés émulsifiant
 <img class="post-image" src="/img/ingredients/driedroses.png">
 <strong>Fleurs Séchées</strong><br />
 De vraies fleurs séchées sont utilisées pour leurs propriétés propres.
+<div class="post-image-clear"></div>
+
+<img class="post-image" src="/img/ingredients/micapowder.png">
+<strong>Poudre de Mica</strong><br />
+La poudre de mica est utilisée dans l'industrie cosmétique pour donner de la couleur.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/foodcoloring.png">

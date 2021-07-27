@@ -11,11 +11,12 @@ categoryContent: "candles"
 
 ### Chandelles Aromatiques et Décoratives
 Nos chandelles sont toutes faites sur place par l'artisan à la boutique!
+<br /><br /><br />
 
 ### Gallerie des Produits
-À venir.<br /><br />
+À venir.<br /><br /><br />
 
-### Nos Ingredients
+### Ingrédients Utilisés dans nos Chandelles
 <img class="post-image" src="/img/ingredients/beeswax.png">
 <strong>Cire d'Abeille Biologique</strong><br />
 La cire d'abeille est utilisée comme base dans nos chandelles.
