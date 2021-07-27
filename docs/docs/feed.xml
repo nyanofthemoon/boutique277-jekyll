@@ -3,11 +3,11 @@
     <channel>
         <title>Artisan de Bellechasse-Etchemins | Boutique 277</title>
         <description>artisan, bijoux, chandelles, savons, article pour bain, articles pour douche, déodorants pour femmes, savons à raser, articles en cuir, décorations et plus!</description>
-        <link>/</link>
-        <atom:link href="/feed.xml" rel="self"
+        <link>https://boutique277.com/</link>
+        <atom:link href="https://boutique277.com/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 27 Jul 2021 08:07:34 -0400</pubDate>
-        <lastBuildDate>Tue, 27 Jul 2021 08:07:34 -0400</lastBuildDate>
+        <pubDate>Tue, 27 Jul 2021 08:45:02 -0400</pubDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:45:02 -0400</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
         <item>
@@ -26,9 +26,11 @@
 &lt;p&gt;Galvanoplastie en argent 925, or 24 carats et or rose N5 de bijoux de fantaisie et autres articles en métal.&lt;/p&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:10 -0400</pubDate>
-            <link>#/2021/07/25/bijoux.html</link>
-            <guid isPermaLink="true">#/2021/07/25/bijoux.html</guid>
+            <link>https://boutique277.com/#/bijoux</link>
+            <guid isPermaLink="true">https://boutique277.com/#/bijoux</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -67,9 +69,11 @@ La poudre de mica est utilisée par l’industrie cosmétique et nous l’utilis
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:09 -0400</pubDate>
-            <link>#/2021/07/25/chandelles.html</link>
-            <guid isPermaLink="true">#/2021/07/25/chandelles.html</guid>
+            <link>https://boutique277.com/#/chandelles</link>
+            <guid isPermaLink="true">https://boutique277.com/#/chandelles</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -175,9 +179,11 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:08 -0400</pubDate>
-            <link>#/2021/07/25/savons.html</link>
-            <guid isPermaLink="true">#/2021/07/25/savons.html</guid>
+            <link>https://boutique277.com/#/savons</link>
+            <guid isPermaLink="true">https://boutique277.com/#/savons</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -239,9 +245,11 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:07 -0400</pubDate>
-            <link>#/2021/07/25/pour-le-bain.html</link>
-            <guid isPermaLink="true">#/2021/07/25/pour-le-bain.html</guid>
+            <link>https://boutique277.com/#/pour-le-bain</link>
+            <guid isPermaLink="true">https://boutique277.com/#/pour-le-bain</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -283,9 +291,11 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:06 -0400</pubDate>
-            <link>#/2021/07/25/pour-la-douche.html</link>
-            <guid isPermaLink="true">#/2021/07/25/pour-la-douche.html</guid>
+            <link>https://boutique277.com/#/pour-la-douche</link>
+            <guid isPermaLink="true">https://boutique277.com/#/pour-la-douche</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -301,9 +311,11 @@ Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutil
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
-            <link>#/2021/07/25/pour-la-maison.html</link>
-            <guid isPermaLink="true">#/2021/07/25/pour-la-maison.html</guid>
+            <link>https://boutique277.com/#/pour-la-maison</link>
+            <guid isPermaLink="true">https://boutique277.com/#/pour-la-maison</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -364,9 +376,11 @@ Composé d’aloe vera biologique, d’argile biologique, de charbon arctivé, h
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
-            <link>#/2021/07/25/pour-femmes.html</link>
-            <guid isPermaLink="true">#/2021/07/25/pour-femmes.html</guid>
+            <link>https://boutique277.com/#/pour-femmes</link>
+            <guid isPermaLink="true">https://boutique277.com/#/pour-femmes</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -422,9 +436,11 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:04 -0400</pubDate>
-            <link>#/2021/07/25/pour-hommes.html</link>
-            <guid isPermaLink="true">#/2021/07/25/pour-hommes.html</guid>
+            <link>https://boutique277.com/#/pour-hommes</link>
+            <guid isPermaLink="true">https://boutique277.com/#/pour-hommes</guid>
             
+            
+            <category>true</category>
             
         </item>
         
@@ -437,9 +453,11 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 &lt;p&gt;À venir.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
             <pubDate>Sun, 25 Jul 2021 06:00:02 -0400</pubDate>
-            <link>#/2021/07/25/en-cuir.html</link>
-            <guid isPermaLink="true">#/2021/07/25/en-cuir.html</guid>
+            <link>https://boutique277.com/#/en-cuir</link>
+            <guid isPermaLink="true">https://boutique277.com/#/en-cuir</guid>
             
+            
+            <category>true</category>
             
         </item>
         

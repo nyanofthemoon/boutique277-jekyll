@@ -1,6 +1,6 @@
 ---
 title:  "En Cuir"
-subtitle: "Qualité, unicité et abordabilité."
+subtitle: "Locaux, uniques et abordables."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/en-cuir.jpg"

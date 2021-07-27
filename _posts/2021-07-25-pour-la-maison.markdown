@@ -1,6 +1,6 @@
 ---
 title:  "Pour la Maison"
-subtitle: "Qualité, bien-être et abordabilité."
+subtitle: "Comfort, bien-être et décor."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-la-maison.jpg"

@@ -1,6 +1,6 @@
 ---
 title:  "Pour Femmes"
-subtitle: "Beauté, comfort et abordabilité."
+subtitle: "Beauté, santé et bien-être."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-femmes.jpg"

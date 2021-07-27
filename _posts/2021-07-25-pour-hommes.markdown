@@ -1,6 +1,6 @@
 ---
 title:  "Pour Hommes"
-subtitle: "Beauté, comfort et abordabilité."
+subtitle: "Beauté, santé et bien-être."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-hommes.jpg"

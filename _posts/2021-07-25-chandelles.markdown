@@ -1,6 +1,6 @@
 ---
 title:  "Chandelles"
-subtitle: "Qualité, bien-être et abordabilité."
+subtitle: "Santé, bien-être et ingrédients biologiques."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/chandelles.jpg"
