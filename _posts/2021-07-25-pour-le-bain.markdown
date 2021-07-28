@@ -1,6 +1,6 @@
 ---
 title:  "Pour le Bain"
-subtitle: "Relaxation, comfort et abordabilité."
+subtitle: "Relaxation, plaisirs et bonheur."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-le-bain.jpg"
