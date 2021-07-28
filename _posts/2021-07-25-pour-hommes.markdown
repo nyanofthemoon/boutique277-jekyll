@@ -60,7 +60,7 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 <div class="post-image-clear"></div>
 <br />
 
-### Ingrédients Utilisés dans nos Produits pour Femmes
+### Ingrédients Utilisés dans nos Produits pour Hommes
 <img class="post-image" src="/img/ingredients/cocooil.png">
 <strong>Huile de Coco Biologique</strong><br />
 L'huile de coco est riche en vitamines et est utilisées pour ses propriétés antiradicalaire, antioxydante, réparatrices et hydratantes.
