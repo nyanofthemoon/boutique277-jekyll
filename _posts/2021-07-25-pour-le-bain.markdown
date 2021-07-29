@@ -18,6 +18,26 @@ Nos produits pour le bain sont toutes faites sur place par l'artisan à la bouti
 <strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
 <div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/bathbombs/relaxation.png">
+<strong>Bombe de Bain Géante: Relaxation</strong><br />
+Cette bombe géante contient deux coeurs pour encore plus d'action! Dorlotez-vous et relaxez tout en vous hydratant doucement dans votre bain... arômes de lavande, ylang ylang avec une touche de géranium.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/bathbombs/tonification.png">
+<strong>Bombe de Bain Géante: Tonification</strong><br />
+Cette bombe géante contient deux coeurs pour encore plus d'action! Prenez un moment pour réveillez et tonifier votre corps entier dans votre bain... arômes de café à l'orange avec un soupçon de cannelle.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/coming-soon.jpg">
+<strong>Bombe de Bain Géante: Massage Chaud</strong><br />
+Cette bombe géante contient deux coeurs pour encore plus d'action! Muscles endoloris après une dure journée? Détendez-vous dans votre bain... arômes d'eucalyptus et de frankincense avec un touche de camomille.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/coming-soon.jpg">
+<strong>Bombe de Bain Géante: Réjuvénération</strong><br />
+Cette bombe géante contient deux coeurs pour encore plus d'action! Prenez un moment pour détoxifier et nourrir votre peau dans le bain... arômes de thé vert et d'argile aux fleurs fruitées.
+<div class="post-image-clear"></div>
 <br />
 
 ### Ingrédients Utilisés dans nos Produits de Bain
