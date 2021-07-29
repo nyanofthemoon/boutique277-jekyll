@@ -46,7 +46,7 @@ Composé d'aloe vera biologique, thé vert matcha biologique, lait de coco biolo
 
 <img class="post-image-product" src="/img/products/masks/reparateur.png">
 <strong>Masque Facial: Réparateur</strong><br />
-Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
+Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée, les cernes et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/deodorants/vanille.png">
@@ -104,6 +104,11 @@ La fécule de tapioca, qui est sans-gluten, est utilisée comme agent épaississ
 <img class="post-image" src="/img/ingredients/bentoniteclay.png">
 <strong>Argile de Bentonite</strong><br />
 L'argile de bentonite est utilisée pour ses propriétes absorbantes, cicatrisantes, apaisantes et anti-irritante.
+<div class="post-image-clear"></div>
+
+<img class="post-image" src="/img/ingredients/activatedcharcoal.png">
+<strong>Charbon Végétal Activé</strong><br />
+Le charbon végétale acitvé est utilisé pour les propriétés absorbantes, purifiantes et désincrustantes où il attire les toxines présentes autant en surface que profondément dans la peau.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/aloevera.png">
