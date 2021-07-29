@@ -24,11 +24,6 @@ Nos chouchous de luxe pour cheveux sont très elastiques et fait en soie et en s
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de jasmin biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/masks/reparateur.png">
-<strong>Masque Facial: Réparateur</strong><br />
-Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
-<div class="post-image-clear"></div>
-
 <img class="post-image-product" src="/img/products/deodorants/orange.png">
 <strong>Déodorant Solide: Orange</strong><br />
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielle d'orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
@@ -37,6 +32,21 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 <img class="post-image-product" src="/img/products/masks/exfoliant.png">
 <strong>Masque Facial: Exfoliant</strong><br />
 Composé d'aloe vera biologique, poudre de cacao biologique, marc de café, huile essentielle de géranium biologique et huile essentielle de ylang ylang biologique, notre masque facial aide à débarrasser l'épiderme des cellules mortes qui l'asphyxient et ternissent son éclat. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser en massant doucement.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/masks/detoxifiant.png">
+<strong>Masque Facial: Détoxifiant</strong><br />
+Composé d'aloe vera biologique, d'argile biologique, de charbon arctivé, huile essentielle de menthe poivrée biologique et huile essentielle de théier biologique, notre masque facial aide à se débarasser des impuretés pour prévenir les problèmes de peau. Appliquer sur une peau propre et laissez agir de 10 à 15 minutes avant de rinser doucement.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/masks/nourrissant.png">
+<strong>Masque Facial: Nourrissant</strong><br />
+Composé d'aloe vera biologique, thé vert matcha biologique, lait de coco biologique, huile essentielle d'orange biologique et huile essentielle de frankincense biologique, notre masque facial aide à garder votre peau belle et en santé. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/masks/reparateur.png">
+<strong>Masque Facial: Réparateur</strong><br />
+Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/deodorants/vanille.png">
@@ -49,19 +59,9 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous rafraîchissant par son parfum.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/masks/nourrissant.png">
-<strong>Masque Facial: Nourrissant</strong><br />
-Composé d'aloe vera biologique, thé vert matcha biologique, lait de coco biologique, huile essentielle d'orange biologique et huile essentielle de frankincense biologique, notre masque facial aide à garder votre peau belle et en santé. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
-<div class="post-image-clear"></div>
-
 <img class="post-image-product" src="/img/products/deodorants/naturel.png">
 <strong>Déodorant Solide: Nature</strong><br />
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d'argile grise, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/masks/detoxifiant.png">
-<strong>Masque Facial: Détoxifiant</strong><br />
-Composé d'aloe vera biologique, d'argile biologique, de charbon arctivé, huile essentielle de menthe poivrée biologique et huile essentielle de théier biologique, notre masque facial aide à se débarasser des impuretés pour prévenir les problèmes de peau. Appliquer sur une peau propre et laissez agir de 10 à 15 minutes avant de rinser doucement.
 <div class="post-image-clear"></div>
 <br />
 
