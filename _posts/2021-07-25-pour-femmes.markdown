@@ -14,21 +14,6 @@ Nos produits pour femmes sont tous faits sur place par l'artisan à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
-<img class="post-image-product" src="/img/products/scrunchies/silk-scrunchies.png">
-<strong>Chouchous de Luxe</strong><br />
-Nos chouchous de luxe pour cheveux sont très elastiques et fait en soie et en satin. Disponibles en plusieurs couleurs et motifs!
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/jasmin.png">
-<strong>Déodorant Solide: Jasmin</strong><br />
-Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de jasmin biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/orange.png">
-<strong>Déodorant Solide: Orange</strong><br />
-Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielle d'orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
-<div class="post-image-clear"></div>
-
 <img class="post-image-product" src="/img/products/masks/exfoliant.png">
 <strong>Masque Facial: Exfoliant</strong><br />
 Composé d'aloe vera biologique, poudre de cacao biologique, marc de café, huile essentielle de géranium biologique et huile essentielle de ylang ylang biologique, notre masque facial aide à débarrasser l'épiderme des cellules mortes qui l'asphyxient et ternissent son éclat. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser en massant doucement.
@@ -49,6 +34,16 @@ Composé d'aloe vera biologique, thé vert matcha biologique, lait de coco biolo
 Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée, les cernes et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
 <div class="post-image-clear"></div>
 
+<img class="post-image-product" src="/img/products/soaps/soap-acne-slice.png">
+<strong>Savon Anti-Acné et Rosacée</strong><br />
+Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et des huiles essentielles de lavande et de théier.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/deodorants/jasmin.png">
+<strong>Déodorant Solide: Jasmin</strong><br />
+Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de jasmin biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
+<div class="post-image-clear"></div>
+
 <img class="post-image-product" src="/img/products/deodorants/vanille.png">
 <strong>Déodorant Solide: Vanille</strong><br />
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous enrobant de son parfum rassurant.
@@ -62,6 +57,11 @@ Composé de beurre de karité biologique, huile de coco biologique, tapioca biol
 <img class="post-image-product" src="/img/products/deodorants/naturel.png">
 <strong>Déodorant Solide: Nature</strong><br />
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d'argile grise, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/scrunchies/silk-scrunchies.png">
+<strong>Chouchous de Luxe</strong><br />
+Nos chouchous de luxe pour cheveux sont très elastiques et fait en soie et en satin. Disponibles en plusieurs couleurs et motifs!
 <div class="post-image-clear"></div>
 <br />
 
