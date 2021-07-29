@@ -14,8 +14,6 @@ Nos produits pour hommes sont tous faits sur place par l'artisan à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
-<img class="post-image-product" src="/img/products/deodorants/naturel.png">
-
 <img class="post-image-product" src="/img/products/shavingsoaps/laventurier.png">
 <strong>Savon à Raser: L'Aventurier</strong><br />
 Composé de savon crémeux et d'huile essentielles de citron et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.
@@ -41,6 +39,7 @@ Composé de savon crémeux et d'huile essentielles de lavande et menthe poivrée
 Composé de savon crémeux et d'huile essentielles de camomille et orange biologique, notre savon à raser laissera votre peau douce avec un odeur bien appréciable.
 <div class="post-image-clear"></div>
 
+<img class="post-image-product" src="/img/products/deodorants/naturel.png">
 <strong>Déodorant Solide: Nature</strong><br />
 Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d'argile grise, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
 <div class="post-image-clear"></div>
