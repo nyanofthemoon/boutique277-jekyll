@@ -14,6 +14,8 @@ Nos produits pour le bain sont toutes faites sur place par l'artisan à la bouti
 <br /><br /><br />
 
 ### Gallerie des Produits
+<i>Venez à la boutique pour voir tous nos produits!</i>
+
 <img class="post-image-product" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
 <strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.

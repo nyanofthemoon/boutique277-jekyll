@@ -13,4 +13,6 @@ categoryContent: "leather"
 Nos créations sont fabriquées par l'artisan sur place à la boutique!
 
 ### Gallerie des Produits
+<i>Venez à la boutique pour voir tous nos produits!</i>
+
 À venir.<br /><br /><br />

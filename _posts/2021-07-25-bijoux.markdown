@@ -14,6 +14,8 @@ Nos créations sont fabriquées par l'artisan sur place à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
+<i>Venez à la boutique pour voir tous nos produits!</i>
+
 <img class="post-image-product" src="/img/products/jewelry/bracelet-0002.png">
 <strong>Nostalgie '80</strong><br />
 Une création nostalgique inspirée de la populaire "bague magique" des années 80... en format bracelet.
