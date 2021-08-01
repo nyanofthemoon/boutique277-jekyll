@@ -14,7 +14,7 @@ Nos produits pour la douche sont toutes faites sur place par l'artisan à la bou
 <br /><br /><br />
 
 ### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits!</i>
+<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
 
 <img class="post-image" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
 <strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />

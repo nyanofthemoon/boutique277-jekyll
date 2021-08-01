@@ -14,7 +14,7 @@ Nos créations sont fabriquées par l'artisan sur place à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits!</i>
+<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
 
 <img class="post-image-product" src="/img/products/wipes/lavette-ecologique.png">
 <strong>Lavettes Écologiques Compostables</strong><br />

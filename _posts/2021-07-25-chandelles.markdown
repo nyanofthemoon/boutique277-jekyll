@@ -14,7 +14,7 @@ Nos chandelles sont toutes faites sur place par l'artisan à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits!</i>
+<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
 
 <img class="post-image-product" src="/img/products/candles/detente.png">
 <strong>Détente</strong><br />

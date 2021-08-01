@@ -14,7 +14,7 @@ Nos produits pour hommes sont tous faits sur place par l'artisan à la boutique!
 <br /><br /><br />
 
 ### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits!</i>
+<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
 
 <img class="post-image-product" src="/img/products/shavingsoaps/laventurier.png">
 <strong>Savon à Raser: L'Aventurier</strong><br />
