@@ -11,7 +11,7 @@ categoryContent: "candles"
 
 ### Chandelles Aromatiques et Décoratives
 Nos chandelles sont toutes faites sur place par l'artisan à la boutique.
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
 <br /><br />
 
 ### Gallerie des Chandelles Décoratives

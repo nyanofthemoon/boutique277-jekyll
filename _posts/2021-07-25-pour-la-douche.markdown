@@ -10,8 +10,8 @@ categoryContent: "shower"
 ---
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus
-Nos produits pour la douche sont toutes faites sur place par l'artisan à la boutique!
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+Nos produits pour la douche sont toutes faites sur place par l'artisan à la boutique.
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
 <br /><br />
 
 ### Gallerie des Produits

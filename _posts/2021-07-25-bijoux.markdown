@@ -10,8 +10,8 @@ categoryContent: "jewelry"
 ---
 
 ### Bagues, Boucles d'Oreilles, Bracelets et Colliers
-Nos créations sont fabriquées par l'artisan sur place à la boutique!
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+Nos créations sont fabriquées par l'artisan sur place à la boutique.
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
 <br /><br />
 
 ### Gallerie des Bijoux

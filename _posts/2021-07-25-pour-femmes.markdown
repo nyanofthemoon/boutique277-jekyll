@@ -10,8 +10,8 @@ categoryContent: "women"
 ---
 
 ### Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus
-Nos produits pour femmes sont tous faits sur place par l'artisan à la boutique!
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+Nos produits pour femmes sont tous faits sur place par l'artisan à la boutique.
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
 <br /><br />
 
 ### Gallerie des Produits

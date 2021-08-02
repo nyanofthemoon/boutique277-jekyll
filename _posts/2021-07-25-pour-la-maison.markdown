@@ -10,8 +10,8 @@ categoryContent: "home"
 ---
 
 ### Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus
-Nos créations sont fabriquées par l'artisan sur place à la boutique!
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+Nos créations sont fabriquées par l'artisan sur place à la boutique.
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
 <br /><br />
 
 ### Gallerie des Produits
