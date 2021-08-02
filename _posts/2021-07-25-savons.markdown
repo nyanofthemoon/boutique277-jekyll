@@ -17,7 +17,7 @@ Nos savons sont tous faits sur place par l'artisan à la boutique.
 ### Gallerie des Savons
 <img class="post-image-product" src="/img/products/soaps/soap-acne-slice.png">
 <strong>Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et d'huiles essentielles de lavande et de théier.
+Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et huiles essentielles de lavande et de théier.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mermaid-0001.png">
