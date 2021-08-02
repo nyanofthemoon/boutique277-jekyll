@@ -11,11 +11,10 @@ categoryContent: "soap"
 
 ### Savons Aromatiques et Artisanaux
 Nos savons sont tous faits sur place par l'artisan à la boutique!
-<br /><br /><br />
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+<br /><br />
 
-### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
-
+### Gallerie des Savons
 <img class="post-image-product" src="/img/products/soaps/soap-acne-slice.png">
 <strong>Anti-Acné et Rosacée</strong><br />
 Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et des huiles essentielles de lavande et de théier.

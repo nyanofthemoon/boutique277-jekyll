@@ -6,8 +6,8 @@
         <link>https://boutique277.com/</link>
         <atom:link href="https://boutique277.com/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Sun, 01 Aug 2021 14:50:05 -0400</pubDate>
-        <lastBuildDate>Sun, 01 Aug 2021 14:50:05 -0400</lastBuildDate>
+        <pubDate>Mon, 02 Aug 2021 07:56:39 -0400</pubDate>
+        <lastBuildDate>Mon, 02 Aug 2021 07:56:39 -0400</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
             
@@ -15,19 +15,20 @@
                 <title>Bijoux</title>
                 <description>&lt;h3 id=&quot;bagues-boucles-doreilles-bracelets-et-colliers&quot;&gt;Bagues, Boucles d’Oreilles, Bracelets et Colliers&lt;/h3&gt;
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits!&lt;/i&gt;&lt;/p&gt;
+&lt;h3 id=&quot;gallerie-des-bijoux&quot;&gt;Gallerie des Bijoux&lt;/h3&gt;
+&lt;div style=&quot;display:flex&quot;&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0003.png&quot; /&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0005.jpg&quot; /&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0006.jpg&quot; /&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0001.png&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0002.png&quot; /&gt;
 &lt;strong&gt;Nostalgie ‘80&lt;/strong&gt;&lt;br /&gt;
 Une création nostalgique inspirée de la populaire “bague magique” des années 80… en format bracelet.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0003.png&quot; /&gt;
-&lt;strong&gt;Les Chaînes&lt;/strong&gt;&lt;br /&gt;
-Bracelets avec maillons de chaîne style “roméo” et attaches magnétiques.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bouclesoreilles-0001.png&quot; /&gt;
@@ -38,11 +39,6 @@ Boucles d’oreilles sur monture française avec cristaux de verre brillants à 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0004.png&quot; /&gt;
 &lt;strong&gt;L’Oeil de Cheval&lt;/strong&gt;&lt;br /&gt;
 Bracelets avec cristaux de verre. Disponible en plusieurs couleurs et variations.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/jewelry/bracelet-0001.png&quot; /&gt;
-&lt;strong&gt;Bracelets Jour et Nuit&lt;/strong&gt;&lt;br /&gt;
-Bracelets avec pierres fabriquées à la main, montées sur une chaîne finie par un cristal à facettes et un fermoir mousqueton.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -67,12 +63,18 @@ Bracelets avec pierres fabriquées à la main, montées sur une chaîne finie pa
             <item>
                 <title>Chandelles</title>
                 <description>&lt;h3 id=&quot;chandelles-aromatiques-et-décoratives&quot;&gt;Chandelles Aromatiques et Décoratives&lt;/h3&gt;
-&lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique.
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
+&lt;h3 id=&quot;gallerie-des-chandelles-décoratives&quot;&gt;Gallerie des Chandelles Décoratives&lt;/h3&gt;
+&lt;div style=&quot;display:flex&quot;&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/candles/candle-0001.jpg&quot; /&gt;
+    &lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/candles/candle-0002.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h3 id=&quot;gallerie-des-chandelles-aromatiques&quot;&gt;Gallerie des Chandelles Aromatiques&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/candles/detente.png&quot; /&gt;
 &lt;strong&gt;Détente&lt;/strong&gt;&lt;br /&gt;
 Notre chandelle aromathérapeutique pour une détente totale.&lt;/p&gt;
@@ -155,11 +157,10 @@ La poudre de mica est utilisée par l’industrie cosmétique et nous l’utilis
                 <title>Savons</title>
                 <description>&lt;h3 id=&quot;savons-aromatiques-et-artisanaux&quot;&gt;Savons Aromatiques et Artisanaux&lt;/h3&gt;
 &lt;p&gt;Nos savons sont tous faits sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
+&lt;h3 id=&quot;gallerie-des-savons&quot;&gt;Gallerie des Savons&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-acne-slice.png&quot; /&gt;
 &lt;strong&gt;Anti-Acné et Rosacée&lt;/strong&gt;&lt;br /&gt;
 Savon anti-acné, rosacée et cernes. Composé d’ingrédients biologiques tels le curcuma, le soufre, l’huile de coco et des huiles essentielles de lavande et de théier.&lt;/p&gt;
@@ -312,11 +313,10 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
                 <title>Pour le Bain</title>
                 <description>&lt;h3 id=&quot;bombes-de-bain-débarbouillettes-savons-crèmes-bain-de-pieds-et-plus&quot;&gt;Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour le bain sont toutes faites sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.png&quot; /&gt;
 &lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
@@ -424,11 +424,10 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
                 <title>Pour la Douche</title>
                 <description>&lt;h3 id=&quot;vapeur-de-douche-débarbouillettes-savons-crèmes-et-plus&quot;&gt;Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour la douche sont toutes faites sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.png&quot; /&gt;
 &lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
 Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
@@ -475,11 +474,10 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
                 <title>Pour la Maison</title>
                 <description>&lt;h3 id=&quot;lampes-mobiles-cache-pot-paniers-objets-décoratifs-lavettes-souvenirs-et-plus&quot;&gt;Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus&lt;/h3&gt;
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/wipes/lavette-ecologique.png&quot; /&gt;
 &lt;strong&gt;Lavettes Écologiques Compostables&lt;/strong&gt;&lt;br /&gt;
 Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux qui n’ont pas de pile de compost!&lt;/p&gt;
@@ -501,11 +499,10 @@ Faites de pulpe de bois naturel recyclé, nos lavettes compostables sont réutil
                 <title>Pour Femmes</title>
                 <description>&lt;h3 id=&quot;masques-faciaux-déodorants-crèmes-gloss-baumes-chouchous-et-plus&quot;&gt;Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour femmes sont tous faits sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/masks/exfoliant.png&quot; /&gt;
 &lt;strong&gt;Masque Facial: Exfoliant&lt;/strong&gt;&lt;br /&gt;
 Composé d’aloe vera biologique, poudre de cacao biologique, marc de café, huile essentielle de géranium biologique et huile essentielle de ylang ylang biologique, notre masque facial aide à débarrasser l’épiderme des cellules mortes qui l’asphyxient et ternissent son éclat. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser en massant doucement.&lt;/p&gt;
@@ -638,11 +635,10 @@ Le marc de café est utilisée pour ses propriétés antioxydantes et exfoliante
                 <title>Pour Hommes</title>
                 <description>&lt;h3 id=&quot;savon-de-rasage-déodorants-baumes-crèmes-et-plus&quot;&gt;Savon de Rasage, Déodorants, Baumes, Crèmes et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour hommes sont tous faits sur place par l’artisan à la boutique!
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/shavingsoaps/laventurier.png&quot; /&gt;
 &lt;strong&gt;Savon à Raser: L’Aventurier&lt;/strong&gt;&lt;br /&gt;
 Composé de savon crémeux et d’huile essentielles de citron et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.&lt;/p&gt;
@@ -759,11 +755,11 @@ Des huiles essentielles pures sont utilisées pour leurs propriétés propres et
             <item>
                 <title>En Cuir</title>
                 <description>&lt;h3 id=&quot;portefeuilles-porte-clefs-sacs-bracelets-et-plus&quot;&gt;Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus&lt;/h3&gt;
-&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!&lt;/p&gt;
+&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique!
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;i&gt;Venez à la boutique pour voir tous nos produits et promotions!&lt;/i&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/leather/bracelet-0001.jpg&quot; /&gt;
 &lt;strong&gt;Bracelet Cuir Motif Tresse Carrée&lt;/strong&gt;&lt;br /&gt;
 Bracelets ajustables fait en faux cuir avec pièce de métal au centre. Disponibles en plusieurs couleurs.&lt;/p&gt;

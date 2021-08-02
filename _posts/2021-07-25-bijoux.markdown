@@ -11,19 +11,20 @@ categoryContent: "jewelry"
 
 ### Bagues, Boucles d'Oreilles, Bracelets et Colliers
 Nos créations sont fabriquées par l'artisan sur place à la boutique!
-<br /><br /><br />
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+<br /><br />
 
-### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits!</i>
+### Gallerie des Bijoux
+<div style="display:flex">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0003.png">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0005.jpg">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0006.jpg">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0001.png">
+</div>
 
 <img class="post-image-product" src="/img/products/jewelry/bracelet-0002.png">
 <strong>Nostalgie '80</strong><br />
 Une création nostalgique inspirée de la populaire "bague magique" des années 80... en format bracelet.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0003.png">
-<strong>Les Chaînes</strong><br />
-Bracelets avec maillons de chaîne style "roméo" et attaches magnétiques.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/jewelry/bouclesoreilles-0001.png">
@@ -34,11 +35,6 @@ Boucles d'oreilles sur monture française avec cristaux de verre brillants à fa
 <img class="post-image-product" src="/img/products/jewelry/bracelet-0004.png">
 <strong>L'Oeil de Cheval</strong><br />
 Bracelets avec cristaux de verre. Disponible en plusieurs couleurs et variations.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0001.png">
-<strong>Bracelets Jour et Nuit</strong><br />
-Bracelets avec pierres fabriquées à la main, montées sur une chaîne finie par un cristal à facettes et un fermoir mousqueton.
 <div class="post-image-clear"></div>
 <br />
 

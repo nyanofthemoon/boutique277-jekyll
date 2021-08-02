@@ -11,10 +11,10 @@ categoryContent: "leather"
 
 ### Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus
 Nos créations sont fabriquées par l'artisan sur place à la boutique!
+<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions!</i>
+<br /><br />
 
 ### Gallerie des Produits
-<i>Venez à la boutique pour voir tous nos produits et promotions!</i>
-
 <img class="post-image-product" src="/img/products/leather/bracelet-0001.jpg">
 <strong>Bracelet Cuir Motif Tresse Carrée</strong><br />
 Bracelets ajustables fait en faux cuir avec pièce de métal au centre. Disponibles en plusieurs couleurs.
