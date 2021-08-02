@@ -30,7 +30,7 @@ Cette bombe géante contient deux coeurs pour encore plus d'action! Dorlotez-vou
 Cette bombe géante contient deux coeurs pour encore plus d'action! Prenez un moment pour réveillez et tonifier votre corps entier dans votre bain... arômes de café à l'orange avec un soupçon de cannelle.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/bathbombs/tonification.jpg">
+<img class="post-image-product" src="/img/products/bathbombs/tonification.png">
 <strong>Bombe de Bain Géante: Massage Chaud</strong><br />
 Cette bombe géante contient deux coeurs pour encore plus d'action! Muscles endoloris après une dure journée? Détendez-vous dans votre bain... arômes d'eucalyptus et de frankincense avec un touche de camomille.
 <div class="post-image-clear"></div>
