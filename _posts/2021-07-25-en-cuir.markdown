@@ -1,5 +1,5 @@
 ---
-title:  "En Cuir"
+title:  "Cuir & Faux Cuir"
 subtitle: "Locaux, uniques et abordables."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
