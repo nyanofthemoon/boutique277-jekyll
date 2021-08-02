@@ -17,52 +17,52 @@ Nos produits pour hommes sont tous faits sur place par l'artisan à la boutique!
 ### Gallerie des Produits
 <img class="post-image-product" src="/img/products/shavingsoaps/laventurier.png">
 <strong>Savon à Raser: L'Aventurier</strong><br />
-Composé de savon crémeux et d'huile essentielles de citron et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.
+Composé de savon crémeux et d'huile essentielles de citron et menthe poivrée biologiques, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/shavingsoaps/lexplorateur.png">
 <strong>Savon à Raser: L'Explorateur</strong><br />
-Composé de savon crémeux et d'huile essentielles de bergamote et frankincense biologique, notre savon à raser vous rafraîchira tout en vous donnant une odeur classiquement masculine.
+Composé de savon crémeux et d'huile essentielles de bergamote et frankincense biologiques, notre savon à raser vous rafraîchira tout en vous donnant une odeur classiquement masculine.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/shavingsoaps/lesportif.png">
 <strong>Savon à Raser: Le Sportif</strong><br />
-Composé de savon crémeux et d'huile essentielles d'eucalyptus et ravensara biologique, notre savon à raser vous revigorera juste avant votre prochain exercise.
+Composé de savon crémeux et d'huile essentielles d'eucalyptus et ravensara biologiques, notre savon à raser vous revigorera juste avant votre prochain exercise.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/shavingsoaps/lintellectuel.png">
 <strong>Savon à Raser: L'Intellectuel</strong><br />
-Composé de savon crémeux et d'huile essentielles de lavande et menthe poivrée biologique, notre savon à raser vous rafraîchira tout en apaisant votre peau.
+Composé de savon crémeux et d'huile essentielles de lavande et menthe poivrée biologiques, notre savon à raser vous rafraîchira tout en apaisant votre peau.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/shavingsoaps/leromantique.png">
 <strong>Savon à Raser: Le Romantique</strong><br />
-Composé de savon crémeux et d'huile essentielles de camomille et orange biologique, notre savon à raser laissera votre peau douce avec un odeur bien appréciable.
+Composé de savon crémeux et d'huile essentielles de camomille et orange biologiques, notre savon à raser laissera votre peau douce avec une odeur bien appréciable.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/deodorants/naturel.png">
 <strong>Déodorant Solide: Nature</strong><br />
-Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique et d'argile grise, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
+Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique et d'argile de bentonite, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/deodorants/frankincense.png">
 <strong>Déodorant Solide: Frankincense</strong><br />
-Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles de Frankincense biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous donnant un odeur des plus masculine.
+Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle de Frankincense biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau tout en vous donnant un odeur des plus masculine.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/deodorants/orange.png">
 <strong>Déodorant Solide: Orange</strong><br />
-Composé de beurre de karité biologique, huile de coco biologique, tapioca biologique, d'argile grise et d'huile essentielles d'orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous donnant une odeur réconfortante.
+Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle d'orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau tout en vous donnant une odeur réconfortante.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-acne-slice.png">
 <strong>Savon Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et des huiles essentielles de lavande et de théier.
+Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et huiles essentielles de lavande et de théier.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-bergamot-frankincense.png">
 <strong>Savon Bergamote et Frankincense</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et des huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
+Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/masks/reparateur.png">
