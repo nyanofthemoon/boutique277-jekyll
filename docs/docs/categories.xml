@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://boutique277.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://boutique277.com/" rel="alternate" type="text/html" /><updated>2021-08-02T11:12:10-04:00</updated><id>https://boutique277.com/feed.xml</id><title type="html">Boutique 277 | Cadeaux et Bien-Être en Bellechasse &amp;amp; Lac-Etchemin</title><subtitle>Artisan, bijoux, chandelles, savons, article pour bain, articles pour douche, déodorants pour femmes, savons à raser, articles en cuir, décorations et plus pour la région de Bellechasse et Lac-Etchemin.</subtitle><author><name>Boutique 277</name></author><entry><title type="html">Bijoux</title><link href="https://boutique277.com/bijoux" rel="alternate" type="text/html" title="Bijoux" /><published>2021-07-25T06:00:10-04:00</published><updated>2021-07-25T06:00:10-04:00</updated><id>https://boutique277.com/bijoux</id><content type="html" xml:base="https://boutique277.com/bijoux">&lt;h3 id=&quot;bagues-boucles-doreilles-bracelets-et-colliers&quot;&gt;Bagues, Boucles d’Oreilles, Bracelets et Colliers&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Boutique 277 | Cadeaux et Bien-Être en Bellechasse &amp; Lac-Etchemin</title>
+        <description>Artisan, bijoux, chandelles, savons, article pour bain, articles pour douche, déodorants pour femmes, savons à raser, articles en cuir, décorations et plus pour la région de Bellechasse et Lac-Etchemin.</description>
+        <link>https://boutique277.com/</link>
+        <atom:link href="https://boutique277.com/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Mon, 02 Aug 2021 11:07:48 -0400</pubDate>
+        <lastBuildDate>Mon, 02 Aug 2021 11:07:48 -0400</lastBuildDate>
+        <generator>Jekyll v4.2.0</generator>
+        
+            
+            <item>
+                <title>Bijoux</title>
+                <description>&lt;h3 id=&quot;bagues-boucles-doreilles-bracelets-et-colliers&quot;&gt;Bagues, Boucles d’Oreilles, Bracelets et Colliers&lt;/h3&gt;
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -32,7 +47,22 @@ Bracelets avec cristaux de verre. Disponible en plusieurs couleurs et variations
 
 &lt;p&gt;Application de solution protectrice anti-ternissement sur bagues, boucles d’oreilles, bracelets, colliers et bracelets de montres.&lt;/p&gt;
 
-&lt;p&gt;Galvanoplastie en argent 925 ou or 24 carats de bijoux de fantaisie et autres articles en métal.&lt;/p&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Bagues, Boucles d’Oreilles, Bracelets et Colliers Nos créations sont fabriquées par l’artisan sur place à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/bijoux.jpg" /><media:content medium="image" url="https://boutique277.com/img/bijoux.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chandelles</title><link href="https://boutique277.com/chandelles" rel="alternate" type="text/html" title="Chandelles" /><published>2021-07-25T06:00:09-04:00</published><updated>2021-07-25T06:00:09-04:00</updated><id>https://boutique277.com/chandelles</id><content type="html" xml:base="https://boutique277.com/chandelles">&lt;h3 id=&quot;chandelles-aromatiques-et-décoratives&quot;&gt;Chandelles Aromatiques et Décoratives&lt;/h3&gt;
+&lt;p&gt;Galvanoplastie en argent 925 ou or 24 carats de bijoux de fantaisie et autres articles en métal.&lt;/p&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:10 -0400</pubDate>
+                <link>https://boutique277.com/#/bijoux</link>
+                <guid isPermaLink="true">https://boutique277.com/#/bijoux</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Chandelles</title>
+                <description>&lt;h3 id=&quot;chandelles-aromatiques-et-décoratives&quot;&gt;Chandelles Aromatiques et Décoratives&lt;/h3&gt;
 &lt;p&gt;Nos chandelles sont toutes faites sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -110,7 +140,22 @@ De vraies fleurs séchées sont utilisées pour leurs propriétés propres.&lt;/
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/micapowder.png&quot; /&gt;
 &lt;strong&gt;Poudre de Mica&lt;/strong&gt;&lt;br /&gt;
 La poudre de mica est utilisée par l’industrie cosmétique et nous l’utilisons dans nos chandelles décoratives.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Chandelles Aromatiques et Décoratives Nos chandelles sont toutes faites sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/chandelles.jpg" /><media:content medium="image" url="https://boutique277.com/img/chandelles.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Savons</title><link href="https://boutique277.com/savons" rel="alternate" type="text/html" title="Savons" /><published>2021-07-25T06:00:08-04:00</published><updated>2021-07-25T06:00:08-04:00</updated><id>https://boutique277.com/savons</id><content type="html" xml:base="https://boutique277.com/savons">&lt;h3 id=&quot;savons-aromatiques-et-artisanaux&quot;&gt;Savons Aromatiques et Artisanaux&lt;/h3&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:09 -0400</pubDate>
+                <link>https://boutique277.com/#/chandelles</link>
+                <guid isPermaLink="true">https://boutique277.com/#/chandelles</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Savons</title>
+                <description>&lt;h3 id=&quot;savons-aromatiques-et-artisanaux&quot;&gt;Savons Aromatiques et Artisanaux&lt;/h3&gt;
 &lt;p&gt;Nos savons sont tous faits sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -118,27 +163,27 @@ La poudre de mica est utilisée par l’industrie cosmétique et nous l’utilis
 &lt;h3 id=&quot;gallerie-des-savons&quot;&gt;Gallerie des Savons&lt;/h3&gt;
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-acne-slice.png&quot; /&gt;
 &lt;strong&gt;Anti-Acné et Rosacée&lt;/strong&gt;&lt;br /&gt;
-Savon anti-acné, rosacée et cernes. Composé d’ingrédients biologiques tels le curcuma, le soufre, l’huile de coco et d’huiles essentielles de lavande et de théier.&lt;/p&gt;
+Savon anti-acné, rosacée et cernes. Composé d’ingrédients biologiques tels le curcuma, le soufre, l’huile de coco et des huiles essentielles de lavande et de théier.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-mermaid-0001.png&quot; /&gt;
 &lt;strong&gt;Vanille-Lavande et Beurre de Mangue&lt;/strong&gt;&lt;br /&gt;
-Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et huiles essentielles de vanille et lavande.&lt;/p&gt;
+Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et des huiles essentielles de vanille et lavande.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-mango-glycerine-bergamot-frankincense.png&quot; /&gt;
 &lt;strong&gt;Bergamote et Frankincense&lt;/strong&gt;&lt;br /&gt;
-Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!&lt;/p&gt;
+Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et des huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-mango-glycerin-cacao.png&quot; /&gt;
 &lt;strong&gt;Cacao et Beurre de Mangue&lt;/strong&gt;&lt;br /&gt;
-Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et le cacao. Excellent pour rafraichir une peau un peu terne.&lt;/p&gt;
+Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et du cacao. Excellent pour rafraichir une peau un peu terne.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/soaps/soap-mango-glycerine-grapefruit.png&quot; /&gt;
 &lt;strong&gt;Pamplemousse et Beurre de Mangue&lt;/strong&gt;&lt;br /&gt;
-Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et huile essentielle de pamplemousse.&lt;/p&gt;
+Savon composé d’ingrédients biologiques tels le beurre de mangue, la glycérine et de l’huile essentielle de pamplemousse.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -251,7 +296,22 @@ Le savon d’Ivoire, est l’un des savon commerciaux les plus pur sur le march�
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/foodcoloring.png&quot; /&gt;
 &lt;strong&gt;Colorant Alimentaire&lt;/strong&gt;&lt;br /&gt;
 Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Savons Aromatiques et Artisanaux Nos savons sont tous faits sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/soaps.jpg" /><media:content medium="image" url="https://boutique277.com/img/soaps.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pour le Bain</title><link href="https://boutique277.com/pour-le-bain" rel="alternate" type="text/html" title="Pour le Bain" /><published>2021-07-25T06:00:07-04:00</published><updated>2021-07-25T06:00:07-04:00</updated><id>https://boutique277.com/pour-le-bain</id><content type="html" xml:base="https://boutique277.com/pour-le-bain">&lt;h3 id=&quot;bombes-de-bain-débarbouillettes-savons-crèmes-bain-de-pieds-et-plus&quot;&gt;Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus&lt;/h3&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:08 -0400</pubDate>
+                <link>https://boutique277.com/#/savons</link>
+                <guid isPermaLink="true">https://boutique277.com/#/savons</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Pour le Bain</title>
+                <description>&lt;h3 id=&quot;bombes-de-bain-débarbouillettes-savons-crèmes-bain-de-pieds-et-plus&quot;&gt;Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour le bain sont toutes faites sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -347,7 +407,22 @@ La poudre de mica est utilisée dans l’industrie cosmétique pour donner de la
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/foodcoloring.png&quot; /&gt;
 &lt;strong&gt;Colorant Alimentaire&lt;/strong&gt;&lt;br /&gt;
 Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Bombes de Bain, Débarbouillettes, Savons, Crèmes, Bain de Pieds et plus Nos produits pour le bain sont toutes faites sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/pour-le-bain.jpg" /><media:content medium="image" url="https://boutique277.com/img/pour-le-bain.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pour la Douche</title><link href="https://boutique277.com/pour-la-douche" rel="alternate" type="text/html" title="Pour la Douche" /><published>2021-07-25T06:00:06-04:00</published><updated>2021-07-25T06:00:06-04:00</updated><id>https://boutique277.com/pour-la-douche</id><content type="html" xml:base="https://boutique277.com/pour-la-douche">&lt;h3 id=&quot;vapeur-de-douche-débarbouillettes-savons-crèmes-et-plus&quot;&gt;Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus&lt;/h3&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:07 -0400</pubDate>
+                <link>https://boutique277.com/#/pour-le-bain</link>
+                <guid isPermaLink="true">https://boutique277.com/#/pour-le-bain</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Pour la Douche</title>
+                <description>&lt;h3 id=&quot;vapeur-de-douche-débarbouillettes-savons-crèmes-et-plus&quot;&gt;Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour la douche sont toutes faites sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -382,7 +457,47 @@ De vraies fleurs séchées sont utilisées pour leurs propriétés propres.&lt;/
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/foodcoloring.png&quot; /&gt;
 &lt;strong&gt;Colorant Alimentaire&lt;/strong&gt;&lt;br /&gt;
 Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Vapeur de Douche, Débarbouillettes, Savons, Crèmes et plus Nos produits pour la douche sont toutes faites sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/pour-la-douche.jpg" /><media:content medium="image" url="https://boutique277.com/img/pour-la-douche.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pour Femmes</title><link href="https://boutique277.com/pour-femmes" rel="alternate" type="text/html" title="Pour Femmes" /><published>2021-07-25T06:00:05-04:00</published><updated>2021-07-25T06:00:05-04:00</updated><id>https://boutique277.com/pour-femmes</id><content type="html" xml:base="https://boutique277.com/pour-femmes">&lt;h3 id=&quot;masques-faciaux-déodorants-crèmes-gloss-baumes-chouchous-et-plus&quot;&gt;Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus&lt;/h3&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:06 -0400</pubDate>
+                <link>https://boutique277.com/#/pour-la-douche</link>
+                <guid isPermaLink="true">https://boutique277.com/#/pour-la-douche</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Pour la Maison</title>
+                <description>&lt;h3 id=&quot;lampes-mobiles-cache-pot-paniers-objets-décoratifs-lavettes-souvenirs-et-plus&quot;&gt;Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus&lt;/h3&gt;
+&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique.
+&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/wipes/lavette-ecologique.png&quot; /&gt;
+&lt;strong&gt;Lavettes Écologiques Compostables&lt;/strong&gt;&lt;br /&gt;
+Faites de pulpe de bois naturelle recyclée, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux et celles qui n’ont pas de pile de compost!&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
+                <link>https://boutique277.com/#/pour-la-maison</link>
+                <guid isPermaLink="true">https://boutique277.com/#/pour-la-maison</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Pour Femmes</title>
+                <description>&lt;h3 id=&quot;masques-faciaux-déodorants-crèmes-gloss-baumes-chouchous-et-plus&quot;&gt;Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour femmes sont tous faits sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -503,17 +618,22 @@ La poudre de soufre est utilisé pour traiter les problèmes de peau tels que l�
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/coffeegrounds.png&quot; /&gt;
 &lt;strong&gt;Marc de Café&lt;/strong&gt;&lt;br /&gt;
 Le marc de café est utilisée pour ses propriétés antioxydantes et exfoliantes.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Masques Faciaux, Déodorants, Crèmes, Gloss, Baumes, Chouchous et plus Nos produits pour femmes sont tous faits sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/pour-femmes.jpg" /><media:content medium="image" url="https://boutique277.com/img/pour-femmes.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pour la Maison</title><link href="https://boutique277.com/pour-la-maison" rel="alternate" type="text/html" title="Pour la Maison" /><published>2021-07-25T06:00:05-04:00</published><updated>2021-07-25T06:00:05-04:00</updated><id>https://boutique277.com/pour-la-maison</id><content type="html" xml:base="https://boutique277.com/pour-la-maison">&lt;h3 id=&quot;lampes-mobiles-cache-pot-paniers-objets-décoratifs-lavettes-souvenirs-et-plus&quot;&gt;Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus&lt;/h3&gt;
-&lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique.
-&lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/wipes/lavette-ecologique.png&quot; /&gt;
-&lt;strong&gt;Lavettes Écologiques Compostables&lt;/strong&gt;&lt;br /&gt;
-Faites de pulpe de bois naturelle recyclée, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux et celles qui n’ont pas de pile de compost!&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus Nos créations sont fabriquées par l’artisan sur place à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/pour-la-maison.jpg" /><media:content medium="image" url="https://boutique277.com/img/pour-la-maison.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pour Hommes</title><link href="https://boutique277.com/pour-hommes" rel="alternate" type="text/html" title="Pour Hommes" /><published>2021-07-25T06:00:04-04:00</published><updated>2021-07-25T06:00:04-04:00</updated><id>https://boutique277.com/pour-hommes</id><content type="html" xml:base="https://boutique277.com/pour-hommes">&lt;h3 id=&quot;savon-de-rasage-déodorants-baumes-crèmes-et-plus&quot;&gt;Savon de Rasage, Déodorants, Baumes, Crèmes et plus&lt;/h3&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:05 -0400</pubDate>
+                <link>https://boutique277.com/#/pour-femmes</link>
+                <guid isPermaLink="true">https://boutique277.com/#/pour-femmes</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>Pour Hommes</title>
+                <description>&lt;h3 id=&quot;savon-de-rasage-déodorants-baumes-crèmes-et-plus&quot;&gt;Savon de Rasage, Déodorants, Baumes, Crèmes et plus&lt;/h3&gt;
 &lt;p&gt;Nos produits pour hommes sont tous faits sur place par l’artisan à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -619,7 +739,22 @@ La gel d’aloe vera en riche en acides aminés, minéraux et vitamines qui lui 
 &lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/ingredients/essentialoils.png&quot; /&gt;
 &lt;strong&gt;Huiles Essentielles Biologiques&lt;/strong&gt;&lt;br /&gt;
 Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Savon de Rasage, Déodorants, Baumes, Crèmes et plus Nos produits pour hommes sont tous faits sur place par l’artisan à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/pour-hommes.jpg" /><media:content medium="image" url="https://boutique277.com/img/pour-hommes.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">En Cuir</title><link href="https://boutique277.com/en-cuir" rel="alternate" type="text/html" title="En Cuir" /><published>2021-07-25T06:00:02-04:00</published><updated>2021-07-25T06:00:02-04:00</updated><id>https://boutique277.com/en-cuir</id><content type="html" xml:base="https://boutique277.com/en-cuir">&lt;h3 id=&quot;portefeuilles-porte-clefs-sacs-bracelets-et-plus&quot;&gt;Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus&lt;/h3&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:04 -0400</pubDate>
+                <link>https://boutique277.com/#/pour-hommes</link>
+                <guid isPermaLink="true">https://boutique277.com/#/pour-hommes</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+            
+            <item>
+                <title>En Cuir</title>
+                <description>&lt;h3 id=&quot;portefeuilles-porte-clefs-sacs-bracelets-et-plus&quot;&gt;Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus&lt;/h3&gt;
 &lt;p&gt;Nos créations sont fabriquées par l’artisan sur place à la boutique.
 &lt;br /&gt;&lt;i&gt;Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.&lt;/i&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -634,4 +769,17 @@ Bracelets ajustables fait en faux cuir avec pièce de métal au centre. Disponib
 &lt;strong&gt;Bracelet Cuir Motif Sauvage&lt;/strong&gt;&lt;br /&gt;
 Bracelets ajustables fait en faux cuir avec pièce de métal au centre. Disponibles en plusieurs couleurs de style “peau d’animal”.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Boutique 277</name></author><category term="true" /><summary type="html">Portefeuilles, Porte-Clefs, Sacs, Bracelets et plus Nos créations sont fabriquées par l’artisan sur place à la boutique. Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://boutique277.com/img/en-cuir.jpg" /><media:content medium="image" url="https://boutique277.com/img/en-cuir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+                <pubDate>Sun, 25 Jul 2021 06:00:02 -0400</pubDate>
+                <link>https://boutique277.com/#/en-cuir</link>
+                <guid isPermaLink="true">https://boutique277.com/#/en-cuir</guid>
+                
+                
+                <category>true</category>
+                
+            </item>
+            
+        
+    </channel>
+</rss>

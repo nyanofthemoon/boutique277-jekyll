@@ -17,27 +17,27 @@ Nos savons sont tous faits sur place par l'artisan à la boutique.
 ### Gallerie des Savons
 <img class="post-image-product" src="/img/products/soaps/soap-acne-slice.png">
 <strong>Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et des huiles essentielles de lavande et de théier.
+Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et d'huiles essentielles de lavande et de théier.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mermaid-0001.png">
 <strong>Vanille-Lavande et Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et des huiles essentielles de vanille et lavande.
+Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huiles essentielles de vanille et lavande.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-bergamot-frankincense.png">
 <strong>Bergamote et Frankincense</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et des huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
+Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mango-glycerin-cacao.png">
 <strong>Cacao et Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et du cacao. Excellent pour rafraichir une peau un peu terne.
+Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et le cacao. Excellent pour rafraichir une peau un peu terne.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-grapefruit.png">
 <strong>Pamplemousse et Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et de l'huile essentielle de pamplemousse.
+Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huile essentielle de pamplemousse.
 <div class="post-image-clear"></div>
 <br />
 
