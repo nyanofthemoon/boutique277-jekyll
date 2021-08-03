@@ -21,27 +21,27 @@ Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes.
 <div class="post-image-clear"></div>
 
 ### Ingrédients Utilisés dans nos Produits de Douche
-<img class="post-image" src="/img/ingredients/essentialoils.png">
+<img class="post-image" src="/img/ingredients/essentialoils.jpg">
 <strong>Huiles Essentielles Biologiques</strong><br />
 Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/bakingsoda.png">
+<img class="post-image" src="/img/ingredients/bakingsoda.jpg">
 <strong>Bicarbonate de Soude</strong><br />
 Le bicarbonate de soude est utilisée comme agent effervescent et pour ses propriétés de rééquilibrant du pH de la peau, antiseptiques et anti-inflammatoires.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/citricacid.png">
+<img class="post-image" src="/img/ingredients/citricacid.jpg">
 <strong>Acide Citrique</strong><br />
 L'acide citrique, présente dans les agrumes, est utilisée pour ses propriétés antioxydantes et de régulation de l'acidité.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/driedroses.png">
+<img class="post-image" src="/img/ingredients/driedroses.jpg">
 <strong>Fleurs Séchées</strong><br />
 De vraies fleurs séchées sont utilisées pour leurs propriétés propres.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/foodcoloring.png">
+<img class="post-image" src="/img/ingredients/foodcoloring.jpg">
 <strong>Colorant Alimentaire</strong><br />
 Le colorant alimentaire est utilisée pour donner de la couleur.
 <div class="post-image-clear"></div>
