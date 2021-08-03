@@ -22,42 +22,42 @@ Nos chandelles sont toutes faites sur place par l'artisan à la boutique.
 <br />
 
 ### Gallerie des Chandelles Aromatiques
-<img class="post-image-product" src="/img/products/candles/detente.png">
+<img class="post-image-product" src="/img/products/candles/detente.jpg">
 <strong>Détente</strong><br />
 Notre chandelle aromathérapeutique pour une détente totale.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/soireeromantique.png">
+<img class="post-image-product" src="/img/products/candles/soireeromantique.jpg">
 <strong>Soirée Romantique</strong><br />
 Notre chandelle aromathérapeutique pour passer une belle soirée romantique.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/tranquilite.png">
+<img class="post-image-product" src="/img/products/candles/tranquilite.jpg">
 <strong>Tranquilité</strong><br />
 Notre chandelle aromathérapeutique pour une ambiance de tranquilité.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/respiration.png">
+<img class="post-image-product" src="/img/products/candles/respiration.jpg">
 <strong>Respiration</strong><br />
 Notre chandelle aromathérapeutique décongestionante.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/concentration.png">
+<img class="post-image-product" src="/img/products/candles/concentration.jpg">
 <strong>Concentration</strong><br />
 Notre chandelle aromathérapeutique méditative pour garder le focus.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/jardinjasmin.png">
+<img class="post-image-product" src="/img/products/candles/jardinjasmin.jpg">
 <strong>Jardin de Jasmin</strong><br />
 Notre chandelle aromathérapeutique douce pour se relaxer.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/jardinroses.png">
+<img class="post-image-product" src="/img/products/candles/jardinroses.jpg">
 <strong>Jardin de Roses</strong><br />
 Notre chandelle aromathérapeutique pour exhauster votre humeur.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/candles/purification.png">
+<img class="post-image-product" src="/img/products/candles/purification.jpg">
 <strong>Purification</strong><br />
 Notre chandelle aromathérapeutique aseptisante pour purifier l'air.
 <div class="post-image-clear"></div>

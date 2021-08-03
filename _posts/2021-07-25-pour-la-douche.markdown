@@ -15,7 +15,7 @@ Nos produits pour la douche sont toutes faites sur place par l'artisan à la bou
 <br /><br />
 
 ### Gallerie des Produits
-<img class="post-image" src="/img/products/washcloths/debarbouillette-vignesoranges.png">
+<img class="post-image" src="/img/products/washcloths/debarbouillette-vignesoranges.jpg">
 <strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />
 Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
 <div class="post-image-clear"></div>

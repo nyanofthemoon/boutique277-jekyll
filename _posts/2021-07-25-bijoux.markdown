@@ -16,23 +16,23 @@ Nos créations sont fabriquées par l'artisan sur place à la boutique.
 
 ### Gallerie des Bijoux
 <div style="display:flex">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0003.png">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0003.jpg">
     <img class="post-image-product" src="/img/products/jewelry/bracelet-0005.jpg">
     <img class="post-image-product" src="/img/products/jewelry/bracelet-0006.jpg">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0001.png">
+    <img class="post-image-product" src="/img/products/jewelry/bracelet-0001.jpg">
 </div>
 
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0002.png">
+<img class="post-image-product" src="/img/products/jewelry/bracelet-0002.jpg">
 <strong>Nostalgie '80</strong><br />
 Une création nostalgique inspirée de la populaire "bague magique" des années 80... en format bracelet.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/jewelry/bouclesoreilles-0001.png">
+<img class="post-image-product" src="/img/products/jewelry/bouclesoreilles-0001.jpg">
 <strong>Boucles de Cristal</strong><br />
 Boucles d'oreilles sur monture française avec cristaux de verre brillants à facettes et gouttes de cristal.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0004.png">
+<img class="post-image-product" src="/img/products/jewelry/bracelet-0004.jpg">
 <strong>L'Oeil de Cheval</strong><br />
 Bracelets avec cristaux de verre. Disponible en plusieurs couleurs et variations.
 <div class="post-image-clear"></div>
