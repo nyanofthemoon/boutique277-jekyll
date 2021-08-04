@@ -6,8 +6,8 @@
         <link>https://boutique277.com/</link>
         <atom:link href="https://boutique277.com/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 04 Aug 2021 17:57:20 -0400</pubDate>
-        <lastBuildDate>Wed, 04 Aug 2021 17:57:20 -0400</lastBuildDate>
+        <pubDate>Wed, 04 Aug 2021 17:58:57 -0400</pubDate>
+        <lastBuildDate>Wed, 04 Aug 2021 17:58:57 -0400</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
         
             
@@ -313,11 +313,6 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.jpg&quot; /&gt;
-&lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
-Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/bathbombs/relaxation.jpg&quot; /&gt;
 &lt;strong&gt;Bombe de Bain Géante: Relaxation&lt;/strong&gt;&lt;br /&gt;
 Cette bombe géante contient deux coeurs pour encore plus d’action! Dorlotez-vous et relaxez tout en vous hydratant doucement dans votre bain… arômes de lavande, ylang ylang avec une touche de géranium.&lt;/p&gt;
@@ -333,9 +328,14 @@ Cette bombe géante contient deux coeurs pour encore plus d’action! Prenez un 
 Cette bombe géante contient deux coeurs pour encore plus d’action! Muscles endoloris après une dure journée? Détendez-vous dans votre bain… arômes d’eucalyptus et de frankincense avec un touche de camomille.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/coming-soon.jpg&quot; /&gt;
+&lt;!--img class=&quot;post-image-product&quot; src=&quot;/img/products/coming-soon.jpg&quot;&gt;
 &lt;strong&gt;Bombe de Bain Géante: Réjuvénération&lt;/strong&gt;&lt;br /&gt;
-Cette bombe géante contient deux coeurs pour encore plus d’action! Prenez un moment pour détoxifier et nourrir votre peau dans le bain… arômes de thé vert et d’argile aux fleurs fruitées.&lt;/p&gt;
+Cette bombe géante contient deux coeurs pour encore plus d'action! Prenez un moment pour détoxifier et nourrir votre peau dans le bain... arômes de thé vert et d'argile aux fleurs fruitées.
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div--&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.jpg&quot; /&gt;
+&lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
+Nos débarbouillettes de luxe sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -422,11 +422,6 @@ Le colorant alimentaire est utilisée pour donner de la couleur.&lt;/p&gt;
 &lt;p&gt;Nos produits pour la douche sont &lt;strong&gt;faits sur place à partir d’ingrédients biologiques&lt;/strong&gt; et sont disponibles autant &lt;strong&gt;&lt;a href=&quot;/boutique.html#directions&quot;&gt;&lt;i class=&quot;fa fa-home fa-1x&quot;&gt;&lt;/i&gt; &lt;u&gt;en magasin&lt;/u&gt;&lt;/a&gt;&lt;/strong&gt; qu’en &lt;strong&gt;&lt;a href=&quot;https://boutique-277.square.site/&quot;&gt;&lt;i class=&quot;fa fa-shopping-cart fa-1x&quot;&gt;&lt;/i&gt; &lt;u&gt;commande en ligne&lt;/u&gt;&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;gallerie-des-produits&quot;&gt;Gallerie des Produits&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.jpg&quot; /&gt;
-&lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
-Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
-&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
-
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/showersteamers/vitalite.jpg&quot; /&gt;
 &lt;strong&gt;Vapeur de Douche: Vitalité&lt;/strong&gt;&lt;br /&gt;
 Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique… arômes de pamplemousse et menthol.&lt;/p&gt;
@@ -435,6 +430,11 @@ Cette vapeur de douche transform votre salle de bain en expérience aromathérap
 &lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/showersteamers/respiration.jpg&quot; /&gt;
 &lt;strong&gt;Vapeur de Douche: Respiration&lt;/strong&gt;&lt;br /&gt;
 Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique… arômes d’eucalyptus, ravensara, théier et menthol.&lt;/p&gt;
+&lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img class=&quot;post-image-product&quot; src=&quot;/img/products/washcloths/debarbouillette-vignesoranges.jpg&quot; /&gt;
+&lt;strong&gt;Débarbouillette Mousseline de Coton &amp;amp; Bambou&lt;/strong&gt;&lt;br /&gt;
+Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l’intérieur en bambou biologique.&lt;/p&gt;
 &lt;div class=&quot;post-image-clear&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
