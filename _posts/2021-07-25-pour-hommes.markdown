@@ -9,9 +9,8 @@ category: true
 categoryContent: "men"
 ---
 
-### Savon de Rasage, Déodorants, Baumes, Crèmes et plus
-Nos produits pour hommes sont tous faits sur place par l'artisan à la boutique.
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
+### Savon de Rasage, Déodorants, Baumes, Crèmes et +
+Nos produits pour hommes sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="https://boutique-277.square.site/"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 <br /><br />
 
 ### Gallerie des Produits

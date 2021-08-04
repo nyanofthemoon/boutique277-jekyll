@@ -9,9 +9,8 @@ category: true
 categoryContent: "home"
 ---
 
-### Lampes, Mobiles, Cache-pot, Paniers, Objets Décoratifs, Lavettes, Souvenirs et plus
-Nos créations sont fabriquées par l'artisan sur place à la boutique.
-<br /><i>Inventaire incomplet en ligne: visitez la boutique pour tous nos produits et promotions.</i>
+### Lampes, Objets Décoratifs, Lavettes, Souvenirs et +
+Nos créations sont <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>.<br />Certaines créations sont aussi disponibles pour la <strong><a href="https://boutique-277.square.site/"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 <br /><br />
 
 ### Gallerie des Produits
