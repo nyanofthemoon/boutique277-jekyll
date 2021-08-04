@@ -18,6 +18,17 @@ Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédient
 Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
 <div class="post-image-clear"></div>
 
+<img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">
+<strong>Vapeur de Douche: Vitalité</strong><br />
+Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique... arômes de pamplemousse et menthol.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/showersteamers/respiration.jpg">
+<strong>Vapeur de Douche: Respiration</strong><br />
+Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique... arômes d'eucalyptus, ravensara, théier et menthol.
+<div class="post-image-clear"></div>
+<br />
+
 ### Ingrédients Utilisés dans nos Produits de Douche
 <img class="post-image" src="/img/ingredients/essentialoils.jpg">
 <strong>Huiles Essentielles Biologiques</strong><br />
