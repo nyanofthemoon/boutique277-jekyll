@@ -10,7 +10,7 @@ categoryContent: "shower"
 ---
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et +
-Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="https://boutique-277.square.site/"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 
 ### Gallerie des Produits
 <img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">

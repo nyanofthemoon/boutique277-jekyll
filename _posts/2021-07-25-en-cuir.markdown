@@ -10,7 +10,7 @@ categoryContent: "leather"
 ---
 
 ### Portefeuilles, Porte-Clefs, Sacs, Bracelets et +
-Nos créations sont <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>.<br />Certaines créations sont aussi disponibles pour la <strong><a href="https://boutique-277.square.site/"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos créations sont <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>.<br />Certaines créations sont aussi disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 <br /><br />
 
 ### Gallerie des Produits
