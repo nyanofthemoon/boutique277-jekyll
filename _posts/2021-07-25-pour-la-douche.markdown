@@ -15,18 +15,17 @@ Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédient
 ### Gallerie des Produits
 <img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">
 <strong>Vapeur de Douche: Vitalité</strong><br />
-Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique... arômes de pamplemousse et menthol pendant 2-3 sessions.
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de pamplemousse et menthol.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/showersteamers/respiration.jpg">
 <strong>Vapeur de Douche: Respiration</strong><br />
-Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique... arômes d'eucalyptus, ravensara, théier et menthol pendant 2-3 sessions.
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes d'eucalyptus, ravensara, théier et menthol.
 <div class="post-image-clear"></div>
-
 
 <img class="post-image-product" src="/img/products/showersteamers/relaxation.jpg">
 <strong>Vapeur de Douche: Relaxation</strong><br />
-Cette vapeur de douche transform votre salle de bain en expérience aromathérapeutique... arômes de lavande et de géranium pendant 2-3 sessions.
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de lavande et de géranium.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/washcloths/debarbouillette-vignesoranges.jpg">
