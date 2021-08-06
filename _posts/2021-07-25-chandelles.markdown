@@ -23,7 +23,7 @@ Nos chandelles sont <strong>faites sur place à partir d'ingrédients naturels</
 ### Gallerie des Chandelles Aromatiques
 <img class="post-image-product" src="/img/products/candles/detente.jpg">
 <strong>Détente</strong><br />
-Notre chandelle aromathérapeutique pour une détente totale avec une durée de plusieurs sessions de 15 minutes.
+Notre chandelle aromathérapeutique pour une détente totale avec une durée de plusieurs sessions de 15-30 minutes.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/candles/soireeromantique.jpg">
