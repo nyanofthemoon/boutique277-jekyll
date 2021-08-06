@@ -55,12 +55,17 @@ Le bicarbonate de soude est utilisée comme agent effervescent et pour ses propr
 L'acide citrique, présente dans les agrumes, est utilisée pour ses propriétés antioxydantes et de régulation de l'acidité.
 <div class="post-image-clear"></div>
 
+<img class="post-image" src="/img/ingredients/tapiocastarch.jpg">
+<strong>Fécule de Tapioca Biologique</strong><br />
+La fécule de tapioca, qui est sans-gluten, est utilisée comme agent épaississeur et ses bienfaits pour calmer les irritations.
+<div class="post-image-clear"></div>
+
 <img class="post-image" src="/img/ingredients/driedroses.jpg">
 <strong>Fleurs Séchées</strong><br />
 De vraies fleurs séchées sont utilisées pour leurs propriétés propres.
 <div class="post-image-clear"></div>
 
-<img class="post-image" src="/img/ingredients/foodcoloring.jpg">
-<strong>Colorant Alimentaire</strong><br />
-Le colorant alimentaire est utilisée pour donner de la couleur.
+<img class="post-image" src="/img/ingredients/micapowder.jpg">
+<strong>Poudre de Mica</strong><br />
+La poudre de mica est utilisée dans l'industrie cosmétique pour donner de la couleur.
 <div class="post-image-clear"></div>
