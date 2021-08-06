@@ -13,9 +13,14 @@ categoryContent: "shower"
 Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 
 ### Gallerie des Produits
-<img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">
-<strong>Vapeur de Douche: Vitalité</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de pamplemousse et menthol.
+<img class="post-image-product" src="/img/products/showersteamers/massage.jpg">
+<strong>Vapeur de Douche: Massage</strong><br />
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de camomille et d'eucalyptus.
+<div class="post-image-clear"></div>
+
+<img class="post-image-product" src="/img/products/showersteamers/relaxation.jpg">
+<strong>Vapeur de Douche: Relaxation</strong><br />
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de lavande et de géranium.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/showersteamers/respiration.jpg">
@@ -23,9 +28,9 @@ Transformer votre salle de bain en expérience aromathérapeutique... pour une d
 Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes d'eucalyptus, ravensara, théier et menthol.
 <div class="post-image-clear"></div>
 
-<img class="post-image-product" src="/img/products/showersteamers/relaxation.jpg">
-<strong>Vapeur de Douche: Relaxation</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de lavande et de géranium.
+<img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">
+<strong>Vapeur de Douche: Vitalité</strong><br />
+Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de pamplemousse et menthol.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/washcloths/debarbouillette-vignesoranges.jpg">
