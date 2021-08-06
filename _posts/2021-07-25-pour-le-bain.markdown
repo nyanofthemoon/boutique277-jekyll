@@ -16,7 +16,7 @@ Nos produits pour le bain sont <strong>faits sur place à partir d'ingrédients 
 ### Gallerie des Produits
 <img class="post-image-product" src="/img/products/bathbombs/relaxation.jpg">
 <strong>Bombe de Bain Géante: Relaxation</strong><br />
-Expérience aromathérapeutique de relaxante et de douce hydratantion pour une durée de 1-2 bains: déposez la bombe directement dans l'eau. Arômes de lavande, ylang ylang avec une touche de géranium.
+Expérience aromathérapeutique relaxante et d'hydratation complète pour une durée de 1-2 bains: déposez la bombe directement dans l'eau. Arômes de lavande, ylang ylang avec une touche de géranium.
 <div class="post-image-clear"></div>
 
 <img class="post-image-product" src="/img/products/bathbombs/tonification.jpg">
