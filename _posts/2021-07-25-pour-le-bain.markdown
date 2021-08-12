@@ -14,7 +14,7 @@ Nos produits pour le bain sont <strong>faits sur place à partir d'ingrédients 
 <br /><br />
 <p class="primary-button">
     <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
-    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+    <a href="/boutique.html#directions" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
 </p>
 <br />
 
