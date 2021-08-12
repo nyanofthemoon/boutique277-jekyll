@@ -10,33 +10,12 @@ categoryContent: "shower"
 ---
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et +
-Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
-
-### Gallerie des Produits
-<img class="post-image-product" src="/img/products/showersteamers/massage.jpg">
-<strong>Vapeur de Douche: Massage</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de camomille et d'eucalyptus.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/showersteamers/relaxation.jpg">
-<strong>Vapeur de Douche: Relaxation</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de lavande et de géranium.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/showersteamers/respiration.jpg">
-<strong>Vapeur de Douche: Respiration</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes d'eucalyptus, ravensara, théier et menthol.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/showersteamers/vitalite.jpg">
-<strong>Vapeur de Douche: Vitalité</strong><br />
-Transformer votre salle de bain en expérience aromathérapeutique... pour une durée de 2-3 douches: mettre la vapeur à un endroit où elle recevra des gouttelettes mais pas directement sous l'eau. Arômes de pamplemousse et menthol.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/washcloths/debarbouillette-vignesoranges.jpg">
-<strong>Débarbouillette Mousseline de Coton & Bambou</strong><br />
-Nos débarbouillettes sont très douces, hypoallergénique et antibactériennes. La surface extérieure est faite en mousseline de coton et l'intérieur en bambou biologique.
-<div class="post-image-clear"></div>
+Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
+<br /><br />
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Ingrédients Utilisés dans nos Produits de Douche

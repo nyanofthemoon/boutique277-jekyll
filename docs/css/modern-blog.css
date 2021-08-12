@@ -394,3 +394,24 @@ a:focus {
 .post-image-clear {
 	clear: both;
 }
+
+.primary-button {
+	display: flex;
+    justify-content: space-around;
+}
+
+.primary-button a {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 1rem;
+	border: 1px solid #000000;
+	background-color: #000000;
+	padding: 10px 25px 10px 25px;
+    border-radius: 23px;
+	margin-top: 15px;
+}
+
+.primary-button a:hover {
+	color: #000000;
+	background-color: aqua;
+}

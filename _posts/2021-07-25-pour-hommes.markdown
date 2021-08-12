@@ -10,64 +10,12 @@ categoryContent: "men"
 ---
 
 ### Savon de Rasage, Déodorants, Baumes, Crèmes et +
-Nos produits pour hommes sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos produits pour hommes sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Produits
-<img class="post-image-product" src="/img/products/shavingsoaps/laventurier.jpg">
-<strong>Savon à Raser: L'Aventurier</strong><br />
-Composé de savon crémeux et d'huile essentielles de citron et menthe poivrée biologiques, notre savon à raser vous rafraîchira tout en laissant votre peau propre et douce.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/shavingsoaps/lexplorateur.jpg">
-<strong>Savon à Raser: L'Explorateur</strong><br />
-Composé de savon crémeux et d'huile essentielles de bergamote et frankincense biologiques, notre savon à raser vous rafraîchira tout en vous donnant une odeur classiquement masculine.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/shavingsoaps/lesportif.jpg">
-<strong>Savon à Raser: Le Sportif</strong><br />
-Composé de savon crémeux et d'huile essentielles d'eucalyptus et ravensara biologiques, notre savon à raser vous revigorera juste avant votre prochain exercise.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/shavingsoaps/lintellectuel.jpg">
-<strong>Savon à Raser: L'Intellectuel</strong><br />
-Composé de savon crémeux et d'huile essentielles de lavande et menthe poivrée biologiques, notre savon à raser vous rafraîchira tout en apaisant votre peau.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/shavingsoaps/leromantique.jpg">
-<strong>Savon à Raser: Le Romantique</strong><br />
-Composé de savon crémeux et d'huile essentielles de camomille et orange biologiques, notre savon à raser laissera votre peau douce avec une odeur bien appréciable.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/naturel.jpg">
-<strong>Déodorant Solide: Nature</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique et d'argile de bentonite, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/frankincense.jpg">
-<strong>Déodorant Solide: Frankincense</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle de Frankincense biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau tout en vous donnant un odeur des plus masculine.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/orange.jpg">
-<strong>Déodorant Solide: Orange</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle d'orange sucrée biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau tout en vous donnant une odeur réconfortante.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-acne-slice.jpg">
-<strong>Savon Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et huiles essentielles de lavande et de théier.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-bergamot-frankincense.jpg">
-<strong>Savon Bergamote et Frankincense</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/masks/reparateur.jpg">
-<strong>Masque Facial: Réparateur</strong><br />
-Composé d'aloe vera biologique, curcuma, d'huile de rose musquée, soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée, les cernes et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
-<div class="post-image-clear"></div>
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Ingrédients Utilisés dans nos Produits pour Hommes

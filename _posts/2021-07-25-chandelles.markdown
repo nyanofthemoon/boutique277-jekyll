@@ -10,56 +10,12 @@ categoryContent: "candles"
 ---
 
 ### Chandelles Aromatiques et Décoratives
-Nos chandelles sont <strong>faites sur place à partir d'ingrédients naturels</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>.<br />Nos chandelles aromatiques sont disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos chandelles sont <strong>faites sur place à partir d'ingrédients naturels</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Nos chandelles aromatiques sont disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Chandelles Décoratives
-<div style="display:flex">
-    <img class="post-image-product" src="/img/products/candles/candle-0001.jpg">
-    <img class="post-image-product" src="/img/products/candles/candle-0002.jpg">
-</div>
-<br />
-
-### Gallerie des Chandelles Aromatiques
-<img class="post-image-product" src="/img/products/candles/detente.jpg">
-<strong>Détente</strong><br />
-Notre chandelle aromathérapeutique pour une détente totale avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/soireeromantique.jpg">
-<strong>Soirée Romantique</strong><br />
-Notre chandelle aromathérapeutique pour passer une belle soirée romantique avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/tranquilite.jpg">
-<strong>Tranquilité</strong><br />
-Notre chandelle aromathérapeutique pour une ambiance de tranquilité avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/respiration.jpg">
-<strong>Respiration</strong><br />
-Notre chandelle aromathérapeutique décongestionante avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/concentration.jpg">
-<strong>Concentration</strong><br />
-Notre chandelle aromathérapeutique méditative pour garder le focus avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/jardinjasmin.jpg">
-<strong>Jardin de Jasmin</strong><br />
-Notre chandelle aromathérapeutique douce pour se relaxer avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/jardinroses.jpg">
-<strong>Jardin de Roses</strong><br />
-Notre chandelle aromathérapeutique pour exhauster votre humeur avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/candles/purification.jpg">
-<strong>Purification</strong><br />
-Notre chandelle aromathérapeutique aseptisante pour purifier l'air avec une durée de plusieurs sessions de 15-30 minutes.
-<div class="post-image-clear"></div>
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Ingrédients Utilisés dans nos Chandelles

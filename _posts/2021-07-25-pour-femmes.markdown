@@ -10,59 +10,12 @@ categoryContent: "women"
 ---
 
 ### Masques Faciaux, Déodorants, Crèmes, Gloss, et +
-Nos produits pour femmes sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et sont disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos produits pour femmes sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Produits
-<img class="post-image-product" src="/img/products/masks/exfoliant.jpg">
-<strong>Masque Facial: Exfoliant</strong><br />
-Composé d'aloe vera biologique, poudre de cacao biologique, de marc de café, d'huiles essentielles de géranium et ylang ylang biologiques, notre masque facial aide à débarrasser l'épiderme des cellules mortes qui l'asphyxient et ternissent son éclat. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser en massant doucement.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/masks/detoxifiant.jpg">
-<strong>Masque Facial: Détoxifiant</strong><br />
-Composé d'aloe vera biologique, d'argile de bentonite, de charbon arctivé, d'huiles essentielles de menthe poivrée et théier biologiques, notre masque facial aide à se débarasser des impuretés pour prévenir les problèmes de peau. Appliquer sur une peau propre et laissez agir de 10 à 15 minutes avant de rinser doucement.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/masks/nourrissant.jpg">
-<strong>Masque Facial: Nourrissant</strong><br />
-Composé d'aloe vera biologique, de thé vert matcha biologique, de lait de coco biologique, d'huiles essentielles d'orange et frankincense biologiques, notre masque facial aide à garder votre peau belle et en santé. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/masks/reparateur.jpg">
-<strong>Masque Facial: Réparateur</strong><br />
-Composé d'aloe vera biologique, de curcuma biologique, d'huile de rose musquée, de soufre et d'huile essentielle de camomille biologique, notre masque facial aide a se débarasser et prévenir l'acné, diminue la rosacée, les cernes et autres taches. Appliquer sur une peau propre et laissez agir 15 minutes avant de rinser.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-acne-slice.jpg">
-<strong>Savon Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et d'huiles essentielles de lavande et de théier.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/jasmin.jpg">
-<strong>Déodorant Solide: Jasmin</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle de jasmin biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous envoûtant de son parfum calmant.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/vanille.jpg">
-<strong>Déodorant Solide: Vanille</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile de vanille biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous enrobant de son parfum rassurant.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/citron.jpg">
-<strong>Déodorant Solide: Citron</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique, d'argile de bentonite et d'huile essentielle de citron biologique, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles, d'hydrater la peau tout en vous rafraîchissant par son parfum.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/deodorants/naturel.jpg">
-<strong>Déodorant Solide: Nature</strong><br />
-Composé de beurre de karité biologique, d'huile de coco biologique, de fécule de tapioca biologique et d'argile de bentonite, notre déodorant permet à la fois de réguler la transpiration, d'empêcher les mauvaises odeurs corporelles et d'hydrater la peau.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/scrunchies/silk-scrunchies.jpg">
-<strong>Chouchous</strong><br />
-Nos chouchous de luxe pour cheveux sont très elastiques et fait en soie et en satin. Disponibles en plusieurs couleurs et motifs!
-<div class="post-image-clear"></div>
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Ingrédients Utilisés dans nos Produits pour Femmes

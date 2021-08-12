@@ -10,34 +10,12 @@ categoryContent: "soap"
 ---
 
 ### Savons Aromatiques et Artisanaux
-Nos savons sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et nos promotion sont disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Nos savons haut de gamme sont disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos savons sont uniques et <strong>faits sur place à partir d'ingrédients biologiques</strong>. Nos promotion sont uniquement disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Certains de nos savons sont aussi disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Savons
-<img class="post-image-product" src="/img/products/soaps/soap-acne-slice.jpg">
-<strong>Anti-Acné et Rosacée</strong><br />
-Savon anti-acné, rosacée et cernes. Composé d'ingrédients biologiques tels le curcuma, le soufre, l'huile de coco et huiles essentielles de lavande et de théier.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-mango-glycerin-cacao.jpg">
-<strong>Cacao au Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et le cacao. Excellent pour rafraichir une peau un peu terne.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-grapefruit.jpg">
-<strong>Pamplemousse au Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huile essentielle de pamplemousse Excellent pour stimuler le corps et passer les petites déprimes.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-mango-glycerine-bergamot-frankincense.jpg">
-<strong>Bergamote et Frankincense au Beurre de Mangue</strong><br />
-Savon composé d'ingrédients biologiques tels le beurre de mangue, la glycérine huiles essentielles de bergamote et frankincense. Laissez-vous surprendre par son odeur typiquement masculine!
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/soaps/soap-mermaid-0001.jpg">
-<strong>Vanille-Lavande au Beurre de Mangue</strong><br />
-Savon autant décoratif qu'utile: composé d'ingrédients biologiques tels le beurre de mangue, la glycérine et huiles essentielles de vanille et lavande. Excellent pour se reconforter et règler les petites imperfections de la peau.
-<div class="post-image-clear"></div>
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Ingrédients Utilisés dans nos Savons

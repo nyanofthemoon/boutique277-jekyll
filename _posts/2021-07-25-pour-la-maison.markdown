@@ -10,12 +10,9 @@ categoryContent: "home"
 ---
 
 ### Lampes, Objets Décoratifs, Lavettes, Souvenirs et +
-Nos créations sont <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>.<br />Certaines créations sont aussi disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+Nos créations sont uniques, <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Certaines créations sont aussi disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Produits
-<img class="post-image-product" src="/img/products/wipes/lavette-ecologique.jpg">
-<strong>Lavettes Écologiques Compostables</strong><br />
-Faites de pulpe de bois naturelle recyclée, nos lavettes compostables sont réutilisables, absorbantes, douces et même recyclables pour ceux et celles qui n'ont pas de pile de compost!
-<div class="post-image-clear"></div>
-<br />
+<p class="primary-button">
+    <a href="http://enligne.boutique277.com" target="_blank"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>

@@ -10,36 +10,12 @@ categoryContent: "jewelry"
 ---
 
 ### Bagues, Boucles d'Oreilles, Bracelets et Colliers
-Nos créations sont <strong>faites sur place</strong> et disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> seulement.
+Nos créations sont uniques, <strong>faites sur place</strong> et disponibles uniquement <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
-
-### Gallerie des Bijoux
-<div style="display:flex">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0003.jpg">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0005.jpg">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0006.jpg">
-    <img class="post-image-product" src="/img/products/jewelry/bracelet-0001.jpg">
-</div>
-
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0002.jpg">
-<strong>Nostalgie '80</strong><br />
-Une création nostalgique inspirée de la populaire "bague magique" des années 80... en format bracelet.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/jewelry/bouclesoreilles-0001.jpg">
-<strong>Boucles de Cristal</strong><br />
-Boucles d'oreilles sur monture française avec cristaux de verre brillants à facettes et gouttes de cristal.
-<div class="post-image-clear"></div>
-
-<img class="post-image-product" src="/img/products/jewelry/bracelet-0004.jpg">
-<strong>L'Oeil de Cheval</strong><br />
-Bracelets avec cristaux de verre. Disponible en plusieurs couleurs et variations.
-<div class="post-image-clear"></div>
+<p class="primary-button">
+    <a href="/boutique.html#direction" target="_blank"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
+</p>
 <br />
 
 ### Services Additionels
 Service <u>gratuit</u> de nettoyage écologique de bagues, boucles d'oreilles, bracelets, colliers, lunettes et bracelets de montre.
-
-Application de solution protectrice anti-ternissement sur bagues, boucles d'oreilles, bracelets, colliers et bracelets de montres.
-
-Galvanoplastie en argent 925 ou or 24 carats de bijoux de fantaisie et autres articles en métal.
