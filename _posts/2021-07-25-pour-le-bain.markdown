@@ -51,7 +51,12 @@ L'argile de bentonite est utilisée pour ses propriétes absorbantes, cicatrisan
 
 <img class="post-image" src="/img/ingredients/activatedcharcoal.jpg">
 <strong>Charbon Végétal Activé</strong><br />
-Le charbon végétale acitvé est utilisé pour les propriétés absorbantes, purifiantes et désincrustantes où il attire les toxines présentes autant en surface que profondément dans la peau.
+Le charbon végétale activé est utilisé pour les propriétés absorbantes, purifiantes et désincrustantes où il attire les toxines présentes autant en surface que profondément dans la peau.
+<div class="post-image-clear"></div>
+
+<img class="post-image" src="/img/ingredients/seaweedkelp.jpg">
+<strong>Algues Marines Biologiques</strong><br />
+L'algue marine de varech (fucus) est utilisée pour les propriétés purifiantes, adoucissantes et anti-inflammatoires.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/matchagreentea.jpg">

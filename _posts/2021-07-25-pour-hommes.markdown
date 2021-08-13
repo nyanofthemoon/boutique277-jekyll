@@ -44,6 +44,11 @@ L'argile de bentonite est utilisée pour ses propriétes absorbantes, cicatrisan
 Le charbon végétale acitvé est utilisé pour les propriétés absorbantes, purifiantes et désincrustantes où il attire les toxines présentes autant en surface que profondément dans la peau.
 <div class="post-image-clear"></div>
 
+<img class="post-image" src="/img/ingredients/seaweedkelp.jpg">
+<strong>Algues Marines Biologiques</strong><br />
+L'algue marine de varech (fucus) est utilisée pour les propriétés purifiantes, adoucissantes et anti-inflammatoires.
+<div class="post-image-clear"></div>
+
 <img class="post-image" src="/img/ingredients/turmeric.jpg">
 <strong>Curcuma Biologique</strong><br />
 Le curcuma est utilisé pour ses propriétés anti-acné, anti-eczéma, anti-psoriasis, anti-inflammatoires, antioxydantes et d'éclaircissant de la peau.
