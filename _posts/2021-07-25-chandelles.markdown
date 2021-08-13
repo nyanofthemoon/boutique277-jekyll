@@ -19,14 +19,19 @@ Nos chandelles sont <strong>faites sur place à partir d'ingrédients naturels</
 <br />
 
 ### Ingrédients Utilisés dans nos Chandelles
+<img class="post-image" src="/img/ingredients/soywax.jpg">
+<strong>Cire de Soya Biologique</strong><br />
+La cire de soya est utilisée comme base dans nos chandelles.
+<div class="post-image-clear"></div>
+
 <img class="post-image" src="/img/ingredients/beeswax.jpg">
 <strong>Cire d'Abeille Biologique</strong><br />
-La cire d'abeille est utilisée comme base dans nos chandelles.
+La cire d'abeille est utilisée en tant qu'additif à nos chandelles.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/paraffin.jpg">
 <strong>Paraffine Grade Alimentaire</strong><br />
-La paraffine est utilisée comme base dans nos chandelles.
+La paraffine est utilisée en tant qu'additif à nos chandelles.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/essentialoils.jpg">
