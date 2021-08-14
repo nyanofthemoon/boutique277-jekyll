@@ -4,12 +4,12 @@ subtitle: "Relaxation, petits plaisirs et bonheur."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-la-douche.jpg"
-date:   2021-07-25 10:00:06
+date:   2021-07-25 10:00:05
 category: true
 categoryContent: "shower"
 ---
 
-### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et +
+### Vapeur de Douche, Débarbouillettes et +
 Nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques</strong> et disponibles autant <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
 <p class="primary-button">
@@ -37,11 +37,6 @@ L'acide citrique, présente dans les agrumes, est utilisée pour ses propriété
 <img class="post-image" src="/img/ingredients/tapiocastarch.jpg">
 <strong>Fécule de Tapioca Biologique</strong><br />
 La fécule de tapioca, qui est sans-gluten, est utilisée comme agent épaississeur et ses bienfaits pour calmer les irritations.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/driedroses.jpg">
-<strong>Fleurs Séchées</strong><br />
-De vraies fleurs séchées sont utilisées pour leurs propriétés propres.
 <div class="post-image-clear"></div>
 
 <img class="post-image" src="/img/ingredients/micapowder.jpg">
