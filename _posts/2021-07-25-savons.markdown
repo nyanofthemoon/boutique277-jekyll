@@ -10,7 +10,9 @@ categoryContent: "soap"
 ---
 
 ### Savons Aromatiques et Artisanaux
-Nos savons sont uniques et <strong>faits sur place à partir d'ingrédients biologiques</strong>. Nos promotion sont uniquement disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong>. Nos savons seront aussi disponibles pour la <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>. Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
+Tous nos savons sont uniques et <strong>faits sur place à partir d'ingrédients biologiques et naturels</strong> et <a href="https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/cosmetiques/renseignements-reglementation.html#a1" target="_blank">approuvés pour la vente par Santé Canada</a>.
+<br /><br />Nos produits sont autant disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+<br /><br />Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
 <p class="primary-button">
     <a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
@@ -19,4 +21,6 @@ Nos savons sont uniques et <strong>faits sur place à partir d'ingrédients biol
 <br />
 
 ### Ingrédients Utilisés dans nos Savons
-Disponibles bientôt! Certains de nos produits et recettes sont actuellement en dévelopment et en processus d'approbation par Santé Canada.
+Tous nos ingrédients sont listés sur nos étiquettes selon la <a href="https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/rapports-publications/industrie-professionnels/guide-etiquetage-ingredients-cosmetiques.html" target="_blank">nomenclature internationale des ingrédients cosmétiques ou INCI.
+<br /><br />
+Nous avons toujours de nouveaux produits en dévelopment! Par contre, les savons artisanaux sont <a href="https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/cosmetiques/renseignements-reglementation.html#a1" target="_blank">classés en tant que "cosmétiques"</a> par Santé Canada et doivent passer par un processus d'approbation avant d'arriver sur nos tablettes ou être vendus aux foires locales.
