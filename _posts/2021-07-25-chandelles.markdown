@@ -23,32 +23,4 @@ Restez informé(e)s des nouveautés et promotions en <strong><a href="https://ww
 <br />
 
 ### Ingrédients Utilisés dans nos Chandelles
-<img class="post-image" src="/img/ingredients/soywax.jpg">
-<strong>Cire de Soya Biologique</strong><br />
-La cire de soya est utilisée comme base dans nos chandelles.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/beeswax.jpg">
-<strong>Cire d'Abeille Biologique</strong><br />
-La cire d'abeille est utilisée en tant qu'additif à nos chandelles.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/paraffin.jpg">
-<strong>Paraffine Grade Alimentaire</strong><br />
-La paraffine est utilisée en tant qu'additif à nos chandelles.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/essentialoils.jpg">
-<strong>Huiles Essentielles Biologiques</strong><br />
-Des huiles essentielles pures sont utilisées pour leurs propriétés propres et aromathérapeutique.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/driedroses.jpg">
-<strong>Fleurs Séchées</strong><br />
-De vraies fleurs séchées sont utilisées pour leurs propriétés propres.
-<div class="post-image-clear"></div>
-
-<img class="post-image" src="/img/ingredients/micapowder.jpg">
-<strong>Poudre de Mica</strong><br />
-La poudre de mica est utilisée par l'industrie cosmétique et nous l'utilisons dans nos chandelles décoratives.
-<div class="post-image-clear"></div>
+Tous nos ingrédients sont listés sur nos étiquettes.
