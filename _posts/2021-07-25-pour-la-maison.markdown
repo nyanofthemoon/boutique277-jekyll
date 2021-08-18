@@ -20,6 +20,7 @@ Nos articles de décoration, souvenirs et promotions sont uniquement disponibles
     <a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
     <a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
 </p>
+<br />
 
 ### Ingrédients Utilisés dans nos Produits de Maison
 Tous nos ingrédients sont listés sur nos étiquettes.
