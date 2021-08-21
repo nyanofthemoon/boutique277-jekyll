@@ -4,7 +4,7 @@ subtitle: "Comfort, bien-être et décor."
 author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/pour-la-maison.jpg"
-date:   2021-07-25 10:00:08
+date:   2021-07-25 10:00:05
 category: true
 categoryContent: "home"
 ---
