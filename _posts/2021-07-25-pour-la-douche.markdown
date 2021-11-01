@@ -10,7 +10,7 @@ categoryContent: "shower"
 ---
 
 ### Vapeur de Douche, Débarbouillettes, Savons, Crèmes et +
-Tous nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques et naturels</strong> et <a href="https://www.canada.ca/fr/sante-canada/services/securite-produits-consommation/cosmetiques/renseignements-reglementation.html#a1" target="_blank">approuvés pour la vente par Santé Canada</a>.
+Tous nos produits pour la douche sont <strong>faits sur place à partir d'ingrédients biologiques et naturels.
 <br /><br />Nos produits sont autant disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 <br /><br />Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
