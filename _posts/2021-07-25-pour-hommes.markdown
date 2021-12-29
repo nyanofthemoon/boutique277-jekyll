@@ -11,11 +11,11 @@ categoryContent: "men"
 
 ### Savon de Rasage, Déodorants, Baumes, Crèmes et +
 Tous nos produits pour hommes sont <strong>faits sur place à partir d'ingrédients biologiques et naturels</strong>.
-<br /><br />Nos produits sont autant disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
+<br /><br />Nos produits sont autant disponibles <strong><a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i> <u>en magasin</u></a></strong> qu'en <strong><a href="http://enligne.boutique277.com/pour-hommes?shipping=true"><i class="fa fa-shopping-cart fa-1x"></i> <u>commande en ligne</u></a></strong>.
 <br /><br />Restez informé(e)s des nouveautés et promotions en <strong><a href="https://www.facebook.com/boutique277" target="_blank"><i class="fa fa-facebook-square fa-1x"></i> <u>suivant notre page</u></a></strong> sur Facebook.
 <br /><br />
 <p class="primary-button">
-    <a href="http://enligne.boutique277.com"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
+    <a href="http://enligne.boutique277.com/pour-hommes?shipping=true"><i class="fa fa-shopping-cart fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Ligne</a>
     <a href="/boutique.html#directions"><i class="fa fa-home fa-1x"></i>&nbsp;&nbsp;Visiter la Boutique en Personne</a>
 </p>
 <br />

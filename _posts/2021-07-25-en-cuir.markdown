@@ -5,7 +5,7 @@ author: "Boutique 277"
 avatar: "img/authors/boutique277.png"
 image: "img/en-cuir.jpg"
 date:   2021-07-25 10:00:00
-category: true
+category: false
 categoryContent: "leather"
 ---
 
